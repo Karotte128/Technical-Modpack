@@ -1,0 +1,13 @@
+name = "Easy Piglins"
+filename = "easy-piglins-neoforge-1.21.1-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6n94pax/versions/9ACAMVvL/easy-piglins-neoforge-1.21.1-1.0.13.jar"
+hash-format = "sha512"
+hash = "fef4be530fdac9b9a83badbc08d2216da5eb79220236a735ba18849c37c0493e7e86e7692cc39c87d1fc1dc807235fa5042e283c182b7ad3a8433fc0aa69db1f"
+
+[update]
+[update.modrinth]
+mod-id = "l6n94pax"
+version = "9ACAMVvL"

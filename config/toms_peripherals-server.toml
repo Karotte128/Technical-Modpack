@@ -1,6 +1,8 @@
 #Max Screen Size
-#Range: 1 ~ 64
+# Default: 16
+# Range: 1 ~ 64
 maxScreenSize = 16
 #Maximum VRAM Size in GPU peripherals
-#Range: > 16384
+# Default: 16777216
+# Range: > 16384
 maxVRAMSize = 16777216

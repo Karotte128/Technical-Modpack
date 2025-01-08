@@ -1,13 +1,13 @@
 name = "AdvancedAE"
-filename = "AdvancedAE-1.1.17-1.21.1.jar"
+filename = "AdvancedAE-1.1.18-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rxYaglEe/versions/Gpwsword/AdvancedAE-1.1.17-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/rxYaglEe/versions/ezakbQqZ/AdvancedAE-1.1.18-1.21.1.jar"
 hash-format = "sha512"
-hash = "406c47b2a1afb4a4ef1943acce2a4b1659d45107133bff56782c7f711b0d280b3c17e484a073bc5210e4916e8fc409b2befc344909519014c1c5e962af82e0d8"
+hash = "82757e624b591c220ef6b2468cd5ffd71654699919cb372cfc3d248e9b619868c998f5e652dc510a2b7aef6f58f621b7b3c6cc47324ccff752cbced10c491dcd"
 
 [update]
 [update.modrinth]
 mod-id = "rxYaglEe"
-version = "Gpwsword"
+version = "ezakbQqZ"

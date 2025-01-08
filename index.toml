@@ -253,6 +253,18 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/drive/lava_cell.json"
+hash = "380468f87829adc3d5ea701fca04db6716bc38d58736bcc996eb13eea876410b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/antimatter_block.png"
+hash = "2d322648b4b187efac1e4c2df0c36606760fd2395dfb533f0905bbe60ed9d93e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/drive/block_infinity_cell_lava.png"
+hash = "ef49ea1e6c422bb1f6f3fabb2e8056170e01a77d14fde0459fc8997541e00468"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -261,24 +273,72 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/infinity_alloy.png"
+hash = "7d60e6ed1a1929af1becb90db4d05639e10e50692b71d85e49478fc5107f4207"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/item_infinity_cell_lava.png"
+hash = "65b8fea7de0e207dca6469a400846a9e2d43c4369a6deba6161f86d7a7e5c9e8"
+
+[[files]]
 file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "df03c1643b14d02f973f786e219d07b77a7f49bdea07405d5b2584b7cb652def"
 
 [[files]]
 file = "kubejs/config/client.properties"
 hash = "219714d78710991ad7b9c1098ad588e600bb6d0dc32c646d26267c84bd61a7cd"
 
 [[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "fefe1e68260cf0936c006026f43b3e2a5f0867f5025f4097d97e8fccee9f568f"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "b866f0010b304fea7489bf8a8e7b2b8ee5b6ae4666b7f294ed74c745b600a44f"
+
+[[files]]
+file = "kubejs/server_scripts/advanced_ae_reaction.js"
+hash = "d2a712fcd1936614c9fe1978656e57c71eebea52973006a71ac0262052da728a"
+
+[[files]]
+file = "kubejs/server_scripts/ae2_transforming.js"
+hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
+
+[[files]]
+file = "kubejs/server_scripts/crafting.js"
+hash = "2761ec50fab3ee06840089bfa04c017e68d4dc7a3d508217ce1eaed6f062f7ca"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "75c7e1eeebc3fc5af8655e91f48ddc043bd5d10142440cdf5ed571166a129788"
 
 [[files]]
+file = "kubejs/server_scripts/mekanism_oxidizing.js"
+hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
+
+[[files]]
+file = "kubejs/startup_scripts/block.js"
+hash = "565ff7d6b4148714b6ef011357d7495f3f740e53f8f325b4cbd5dac67bb05a6c"
+
+[[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/infinity_cells.js"
+hash = "fdc559e24285c9efe5e5a3df7ceb6f2bfec60d0f6b7eda0c56f981120daefdf2"
+
+[[files]]
+file = "kubejs/startup_scripts/item.js"
+hash = "8636a2ac0736c6335c8a3397cf3d7ebbd767a6f8ee51fdaa6627be4de8312534"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -287,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "fd1101f8d667a38e4ea3c03f82e9015b18c936a5f944e19bb8c6415e151d66f4"
+hash = "68d5b31bff7d1bf7c0300ea7511c93944d18803ad958d300b34ef2804da88312"
 metafile = true
 
 [[files]]
@@ -377,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "01bb91da82c3e6da5b2017378ab03ee43eb7d54c62c17bff531dc929ee661461"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
 metafile = true
 
 [[files]]
@@ -422,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7f58991c72f8c958a285b7e99783eea5fdeb85fa98fd17fdd0ef905fd7eefb22"
+hash = "19e53023bf36b9e005d94d649c94c7e8db0533ee6396ba2f6fb8893e56a1d07b"
 metafile = true
 
 [[files]]
@@ -448,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "976a897717e0cab6212b0bf2537a7edadf7e684ea288c178d21290a88e3f517e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e379c1e5da117e101dfb6ea2b90022eee85dfed17c22baf1b20ad9122c699e30"
 metafile = true
 
 [[files]]
@@ -542,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "5407c603d29c425b80e125f966dd48be5123f156e0fb85a3e194ad1cf5e2c435"
+hash = "1eaa1a237d69e245df31a7757719a41dc886832741395acf21d5996c4d2acfc4"
 metafile = true
 
 [[files]]

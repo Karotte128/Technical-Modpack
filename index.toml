@@ -305,6 +305,10 @@ file = "kubejs/config/web_server.json"
 hash = "b866f0010b304fea7489bf8a8e7b2b8ee5b6ae4666b7f294ed74c745b600a44f"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_table/blocks/reinforced_deepslate.json"
+hash = "38d65ae9e6bf929b4c03463eb82f20e4a28b1ef6f0f47dbed83dcc98db80791a"
+
+[[files]]
 file = "kubejs/server_scripts/advanced_ae_reaction.js"
 hash = "d2a712fcd1936614c9fe1978656e57c71eebea52973006a71ac0262052da728a"
 
@@ -314,11 +318,15 @@ hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "2761ec50fab3ee06840089bfa04c017e68d4dc7a3d508217ce1eaed6f062f7ca"
+hash = "9ff20772a0b8fed590e1bd163ba71126dffcb596da9aad28bcd3091ca4558e09"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "75c7e1eeebc3fc5af8655e91f48ddc043bd5d10142440cdf5ed571166a129788"
+
+[[files]]
+file = "kubejs/server_scripts/extracting.js"
+hash = "555b4eac9f62dbd81b7abed9c203fd8ee3123c9d0a6b9e980cdb3dbfcd204046"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism_oxidizing.js"
@@ -326,7 +334,7 @@ hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
-hash = "565ff7d6b4148714b6ef011357d7495f3f740e53f8f325b4cbd5dac67bb05a6c"
+hash = "ff98ee03f34382e9a0da5daf4902f7a1349140c554efdb0895ffff12ccdd4693"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -403,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "bf08364748ebf327e51620921fe105fd91eb742f8b9dbc1b980bcfb2cff0cd06"
+metafile = true
+
+[[files]]
+file = "mods/blockextractor.pw.toml"
+hash = "aa581ffddc6380589fde173dd34e2148d38e11ca7c1363970b0f1b1c46f37ce6"
 metafile = true
 
 [[files]]

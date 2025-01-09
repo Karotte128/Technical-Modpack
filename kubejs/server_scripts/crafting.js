@@ -72,4 +72,166 @@ ServerEvents.recipes(event => {
       E: 'minecraft:experience_bottle',
   })
 
+  //reinforced coal ore
+  event.shaped('kubejs:reinforced_coal_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/coal',
+  })
+
+  //reinforced iron ore
+  event.shaped('kubejs:reinforced_iron_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/iron',
+  })
+
+  //reinforced copper ore
+  event.shaped('kubejs:reinforced_copper_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/copper',
+  })
+
+  //reinforced gold ore
+  event.shaped('kubejs:reinforced_gold_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/gold',
+  })
+
+  //reinforced redstone ore
+  event.shaped('kubejs:reinforced_redstone_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/redstone',
+  })
+
+  //reinforced emerald ore
+  event.shaped('kubejs:reinforced_emerald_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/emerald',
+  })
+
+  //reinforced lapis ore
+  event.shaped('kubejs:reinforced_lapis_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+     R: 'minecraft:reinforced_deepslate',
+     I: '#c:ores/lapis',
+  })
+
+  //reinforced diamond ore
+  event.shaped('kubejs:reinforced_diamond_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+     R: 'minecraft:reinforced_deepslate',
+     I: '#c:ores/diamond',
+  })
+
+  //reinforced quartz ore
+  event.shaped('kubejs:reinforced_quartz_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/quartz',
+  })
+
+  //reinforced ancient debris
+  event.shaped('kubejs:reinforced_ancient_debris', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/netherite_scrap',
+  })
+
+  //reinforced tin ore
+  event.shaped('kubejs:reinforced_tin_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/tin',
+  })
+
+  //reinforced osmium ore
+  event.shaped('kubejs:reinforced_osmium_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/osmium',
+  })
+
+  //reinforced uranium ore
+  event.shaped('kubejs:reinforced_uranium_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/uranium',
+  })
+
+  //reinforced fluorite ore
+  event.shaped('kubejs:reinforced_fluorite_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/fluorite',
+  })
+
+  //reinforced lead ore
+  event.shaped('kubejs:reinforced_lead_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/lead',
+  })
+
+  //block extractor
+  event.shaped('blockextractor:extractor_block', [
+      'SSS',
+      'SCS',
+      'IDI'
+  ], {
+      S: 'minecraft:smooth_stone',
+      C: 'mekanism:steel_casing',
+      D: 'minecraft:diamond',
+      I: 'minecraft:iron_block',
+  })
+
 })

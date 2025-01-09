@@ -1,0 +1,13 @@
+name = "BlockExtractor"
+filename = "blockextractor-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IS5qJvVm/versions/UQbA08yI/blockextractor-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "f6d2185ff7df76fd1851d246a2742c8917c821f621485f0923f99e7dd34f7c0ea6a4c42e482a5b32b909c5133dc90ba5c6ce5d318ed79e00e53a42d6903e6da9"
+
+[update]
+[update.modrinth]
+mod-id = "IS5qJvVm"
+version = "UQbA08yI"

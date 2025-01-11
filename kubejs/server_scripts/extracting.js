@@ -4,6 +4,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_coal_ore"
         },
+        "ticks": 100,
         "result": {
             "id": "minecraft:coal"
         }
@@ -14,6 +15,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_iron_ore"
         },
+        "ticks": 100,
         "result": {
             "id": "minecraft:raw_iron"
         }
@@ -24,6 +26,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_copper_ore"
         },
+        "ticks": 100,
         "result": {
             "id": "minecraft:raw_copper"
         }
@@ -34,6 +37,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_gold_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "minecraft:raw_gold"
         }
@@ -44,6 +48,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_redstone_ore"
         },
+        "ticks": 100,
         "result": {
             "id": "minecraft:redstone"
         }
@@ -54,6 +59,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_emerald_ore"
         },
+        "ticks": 300,
         "result": {
             "id": "minecraft:emerald"
         }
@@ -64,6 +70,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_lapis_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "minecraft:lapis_lazuli"
         }
@@ -74,6 +81,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_diamond_ore"
         },
+        "ticks": 400,
         "result": {
             "id": "minecraft:diamond"
         }
@@ -84,6 +92,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_quartz_ore"
         },
+        "ticks": 100,
         "result": {
             "id": "minecraft:quartz"
         }
@@ -94,6 +103,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_ancient_debris"
         },
+        "ticks": 400,
         "result": {
             "id": "minecraft:netherite_scrap"
         }
@@ -104,6 +114,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_tin_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "mekanism:raw_tin"
         }
@@ -114,6 +125,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_osmium_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "mekanism:raw_osmium"
         }
@@ -124,6 +136,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_uranium_ore"
         },
+        "ticks": 300,
         "result": {
             "id": "mekanism:raw_uranium"
         }
@@ -134,6 +147,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_fluorite_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "mekanism:fluorite_gem"
         }
@@ -144,6 +158,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_lead_ore"
         },
+        "ticks": 200,
         "result": {
             "id": "mekanism:raw_lead"
         }

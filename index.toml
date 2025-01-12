@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-experienced.pw.toml"
-hash = "837f11ec70363db81f47970eea34fd787968fde840ba6b34bb238131609709e1"
+hash = "33ede403421546e159e83c1752bd677ab13df93736d7c2a612185c5e53b7ccb2"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e7350f45873226d5860dafcc6bc81aa398d1eb49aa94049a01cc4367b4cee95"
+hash = "310c853e2f2914fc72d5ce427cc8357510402fab10c05d4c0184d50d5052314c"
 metafile = true
 
 [[files]]

@@ -33,12 +33,6 @@ ServerEvents.recipes(event => {
     'megacells:item_storage_cell_256m'
   ])
 
-  //creative experience cell
-  event.shapeless('appex:creative_experience_cell',[
-    'kubejs:infinity_alloy',
-    'appex:experience_storage_cell_256k'
-  ])
-
   //creative energy cell
   event.shapeless('ae2:creative_energy_cell',[
     'kubejs:infinity_alloy',
@@ -221,6 +215,46 @@ ServerEvents.recipes(event => {
       R: 'minecraft:reinforced_deepslate',
       I: '#c:ores/lead',
   })
+
+  //reinforced steel ore
+  event.shaped('kubejs:reinforced_steel_ore', [
+      'III',
+      'IRI',
+      'III'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/steel',
+  })
+
+  //reinforced plutonium ore
+  event.shaped('kubejs:reinforced_plutonium_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/plutonium',
+  })
+
+  //reinforced neptunium ore
+  event.shaped('kubejs:reinforced_neptunium_ore', [
+      'III',
+      'IRI',
+      'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/neptunium',
+  })
+
+  //reinforced desh ore
+  event.shaped('kubejs:reinforced_desh_ore', [
+      'III',
+     'IRI',
+     'III'
+    ], {
+      R: 'minecraft:reinforced_deepslate',
+      I: '#c:ores/desh',
+})
 
   //block extractor
   event.shaped('blockextractor:extractor_block', [

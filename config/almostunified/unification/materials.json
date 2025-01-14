@@ -2,9 +2,16 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
-    "mekanism"
+    "mekanism",
+    "stellaris"
   ],
-  "priority_overrides": {},
+  "priority_overrides": {
+    "c:storage_blocks/uranium": "stellaris",
+    "c:storage_blocks/raw_uranium": "stellaris",
+    "c:ingots/uranium": "stellaris",
+    "c:raw_materials/uranium": "stellaris",
+    "c:ingots/plutonium": "stellaris"
+  },
   "stone_variants": [
     "stone",
     "andesite",
@@ -12,7 +19,11 @@
     "diorite",
     "granite",
     "netherrack",
-    "end_stone"
+    "end_stone",
+    "mercury",
+    "moon",
+    "mars",
+    "venus"
   ],
   "tags": [
     "c:dusts/{material}",
@@ -35,6 +46,6 @@
   ],
   "ignored_recipe_ids": [],
   "recipe_viewer_hiding": true,
-  "loot_unification": false,
+  "loot_unification": true,
   "ignored_loot_tables": []
 }

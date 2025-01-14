@@ -77,13 +77,13 @@ ServerEvents.recipes(event => {
                 {
                     "amount": 8,
                     "ingredient": {
-                        "item": "mekanism:pellet_plutonium"
+                        "item": "stellaris:plutonium_block"
                     }
                 },
                 {
                     "amount": 8,
                     "ingredient": {
-                        "item": "mekanism:pellet_polonium"
+                        "item": "stellaris:neptunium_block"
                     }
                 },
                 {

@@ -138,7 +138,7 @@ ServerEvents.recipes(event => {
         },
         "ticks": 300,
         "result": {
-            "id": "mekanism:raw_uranium"
+            "id": "stellaris:raw_uranium"
         }
     })
 
@@ -161,6 +161,50 @@ ServerEvents.recipes(event => {
         "ticks": 200,
         "result": {
             "id": "mekanism:raw_lead"
+        }
+    })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_plutonium_ore"
+        },
+        "ticks": 100,
+        "result": {
+            "id": "stellaris:plutonium_nugget"
+        }
+    })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_neptunium_ore"
+        },
+        "ticks": 200,
+        "result": {
+            "id": "stellaris:neptunium_ingot"
+        }
+    })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_desh_ore"
+        },
+        "ticks": 200,
+        "result": {
+            "id": "stellaris:raw_desh_ingot"
+        }
+    })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_steel_ore"
+        },
+        "ticks": 200,
+        "result": {
+            "id": "stellaris:raw_steel_ingot"
         }
     })
 })

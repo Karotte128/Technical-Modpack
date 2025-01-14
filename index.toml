@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/additions-client.toml"
+hash = "52fccdd324d438e22516ead39c6e1cceb0e27bfdd7811c1eb6a842a69fead88c"
+
+[[files]]
+file = "config/Mekanism/additions.toml"
+hash = "98a7e43185fa4ab876d1fe21c9e540f457ef56f02e366440b171c518f91d1755"
+
+[[files]]
 file = "config/Mekanism/client.toml"
 hash = "2f2d24a8ead7e09fbdd9cd962236c672575ca4e15130b18eff0cc253bf882e8f"
 
@@ -66,7 +74,7 @@ hash = "835289c12eb342b6f31a3fdb136c8b622cd3a8f341b6d0ed83b27f48211ef370"
 
 [[files]]
 file = "config/ae2-client.toml"
-hash = "44ef758c12d31f42aba3a158747a478d5c1879e8bff9700744f4238294caeb33"
+hash = "106de6d815eb9c053f98f21af51c53ee9b238ec5fcfb09e7d582b84ba38fc45b"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -86,7 +94,7 @@ hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
 [[files]]
 file = "config/almostunified/placeholders.json"
-hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+hash = "73251129e16d89b52230a54b1f5f4f7810f238555b5432a6c2797636aae9824f"
 
 [[files]]
 file = "config/almostunified/startup.json"
@@ -98,7 +106,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "0590a29747a51501ee4c2bea6418444dd8de60cd872083f86e15ad4deb1d3158"
+hash = "79cb026d9cbaaa81f0f69aae790c3cfcdbf9b1333823c546994032db8b3775b2"
 
 [[files]]
 file = "config/appex-common.toml"
@@ -111,6 +119,10 @@ hash = "4698fdc44f620d377a4ffac3fdcd3ee731a10ac7cc8003777a8ada3f270040ec"
 [[files]]
 file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
+
+[[files]]
+file = "config/cable_facades-common.toml"
+hash = "63d2c3f1c6117d28b7fae044b2c9f39bc55a824d5ef30fe62ef8e1f2e221cda7"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -185,6 +197,26 @@ file = "config/iris.properties"
 hash = "40299fb2da25ad1350eb8d1ca263681df8b28c093d113969be93ebd13211cc41"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "fa811b894b3dd2a32abaa9282f248973320796d864a3aa077be910bd1caa8199"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "79c077047d94283e1ccc59caeec5c18d9a58376b14cb3d8d812cd673c27bea94"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -237,6 +269,10 @@ file = "config/sodium-options.json"
 hash = "dfae81660eb608e284b30188c65fae8ff29365fbad413a87304f8bdfe395b38e"
 
 [[files]]
+file = "config/stellaris.json"
+hash = "2dbb1577886758f93351496a2133b9ed61847d2b653d0b855ba48fc8740c2401"
+
+[[files]]
 file = "config/toms_peripherals-common.toml"
 hash = "b93eb71c64291e4dd148a0b8f2370615a70bf6aa395bb37a6da941ba78f8d04a"
 
@@ -246,7 +282,7 @@ hash = "91689381d5151eac079c84334986a4c8417386c813c7295ccb30d3397dcd6d73"
 
 [[files]]
 file = "config/yigd.json"
-hash = "7f6e05a922a0de24d856aef076c5e62d2ac0861004c775d31f310b1de03391cd"
+hash = "f607d8cd42b224d9f6f332b3e954755dd12d68adcc4bdf769a2a72e3eecf9e21"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -310,7 +346,7 @@ hash = "38d65ae9e6bf929b4c03463eb82f20e4a28b1ef6f0f47dbed83dcc98db80791a"
 
 [[files]]
 file = "kubejs/server_scripts/advanced_ae_reaction.js"
-hash = "d2a712fcd1936614c9fe1978656e57c71eebea52973006a71ac0262052da728a"
+hash = "a9cfe844e83d6e9347697ec3314191a3eca4bcfdb38e0429a8bb80f1fceece9e"
 
 [[files]]
 file = "kubejs/server_scripts/ae2_transforming.js"
@@ -318,7 +354,7 @@ hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "9ff20772a0b8fed590e1bd163ba71126dffcb596da9aad28bcd3091ca4558e09"
+hash = "00de01f885117b1091ac57d192a85c1e36ef57b6801dc6f32d17b7c27cf4496b"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -326,15 +362,23 @@ hash = "75c7e1eeebc3fc5af8655e91f48ddc043bd5d10142440cdf5ed571166a129788"
 
 [[files]]
 file = "kubejs/server_scripts/extracting.js"
-hash = "05c3e5c9785356193ef97368d6288b743492612ab5df0ff1c7ea8563e6421c8a"
+hash = "bdb7a7f21777131cbb268ee3458396a02be32827ccf294a3fc45cff60cb9a4b6"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism_oxidizing.js"
 hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
+file = "kubejs/server_scripts/remove_recipes.js"
+hash = "a291aafa8f2cdfa8c2710eb7d113aeca35089a5c1c65c2990eed85dd9bb92b6e"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "edcf429e0012d663ade968c41e23d14423e13e30b767ca5ce6f71eea44243247"
+
+[[files]]
 file = "kubejs/startup_scripts/block.js"
-hash = "ff98ee03f34382e9a0da5daf4902f7a1349140c554efdb0895ffff12ccdd4693"
+hash = "ee5338df0ef3960a8c96913dff020c00288f28030cbc0f5a1647eddab2fb0270"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -400,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-experienced.pw.toml"
-hash = "33ede403421546e159e83c1752bd677ab13df93736d7c2a612185c5e53b7ccb2"
+hash = "69d21ad0ac18a551508fdca8763b89bb873c25704f8d5e1b9d0716d12e70c172"
 metafile = true
 
 [[files]]
@@ -414,8 +458,18 @@ hash = "bf08364748ebf327e51620921fe105fd91eb742f8b9dbc1b980bcfb2cff0cd06"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/blockextractor.pw.toml"
 hash = "ed646832d9ed0ddc39f8ffb8d43169ef9b9932a3721f179027fe5ab90cc3a970"
+metafile = true
+
+[[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "1997f65e0e34bef1cf3565fafabe155910275586ba469be08d222c2e69a97228"
 metafile = true
 
 [[files]]
@@ -436,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "5af0c4f1ee0e83ff5a6356ccea4224ce19aeded4ccb6f183fa75f2efab306240"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
 metafile = true
 
 [[files]]
@@ -480,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "41f2ff952fee457b1812074fbb48188fe1caeec139bb5ca6202bb67e999baa1b"
+hash = "561f88e1928316bcb4105b5086cb724752a24e76690f229476b28596a590d696"
 metafile = true
 
 [[files]]
@@ -529,6 +588,16 @@ hash = "e379c1e5da117e101dfb6ea2b90022eee85dfed17c22baf1b20ad9122c699e30"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "9e832d7cab9142ad6d8db0f9f899fdad83bcba9af8bd9bde900555831ef2a6b5"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "edab79d344e7fa6ebe870317b424d2a068a5ca1e734443832b245024effdd745"
 metafile = true
@@ -555,7 +624,12 @@ metafile = true
 
 [[files]]
 file = "mods/mega.pw.toml"
-hash = "2c3d20ac31f723f22bc08faf759d86cd7de32589503428952ca3212463336f6a"
+hash = "04749b100e3a59577bc97a8f1539810660d1af317b0a20e020d9c3d40d3d255e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "c17fcce0a368363b5176af9032cb9aade590b0b211cdf0d1a9a3f1c2389d0302"
 metafile = true
 
 [[files]]
@@ -611,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9050cb92f35f8057726ec547ba3306726a1a4f3b5ed0d147b70d2dc30dcff582"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "b51ec42954e47331369b738c7b48b1dc2cce3d28eb87bfcf5d36ef6e78036b87"
 metafile = true
 
 [[files]]

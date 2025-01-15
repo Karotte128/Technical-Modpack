@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "3e44fbb6d95c0d8385d02379ffaf3724e973235a14aed5aa48510a62799bd689"
+hash = "28a0ca6644d3cd35d2836ba23ea07442d86f89994e13e473a1d6b13144bf3724"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0cea32c14ebfbb49c57465c223fb9b2c136a3eede56a2568389c62da054b510a"
+hash = "86cb5262c8691d9f65a887053158ce12941506bb66049a17882add119cb9833d"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b88870636259f36da92219dc38d289505579a0f789450e0d7f9a193eb7611d07"
+hash = "f1d586e13ed01585d852a94af69f2584c42ac5035f3480327293a50b8b0d0ba1"
 metafile = true
 
 [[files]]

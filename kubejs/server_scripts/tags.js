@@ -31,14 +31,23 @@ ServerEvents.tags('item', event => {
     event.add('c:raw_blocks', 'stellaris:raw_desh_block')
     event.add('c:storage_blocks', 'stellaris:raw_desh_block')
     event.add('c:storage_blocks/desh', 'stellaris:raw_desh_block')
+    event.add('c:storage_blocks/steel', 'stellaris:steel_block')
+    event.add('c:storage_blocks', 'stellaris:steel_block')
+    event.add('c:ore_blocks/steel', 'mekanism:block_steel')
 
     event.add("c:hidden_from_recipe_viewers", [
         'mekanismadditions:walkie_talkie',
         'extendedae:fishbig',
-        'extendedae:mddyue'
+        'extendedae:mddyue',
+        'stellaris:steel_pickaxe',
+        'stellaris:steel_axe',
+        'stellaris:steel_hoe',
+        'stellaris:steel_shovel',
+        'stellaris:steel_sword'
     ])
 
     event.remove('c:raw_materials', 'stellaris:raw_uranium_block')
     event.remove('c:raw_materials', 'stellaris:raw_steel_block')
     event.remove('c:raw_materials', 'stellaris:raw_desh_block')
+    event.remove('c:ore_blocks/steel', 'stellaris:steel_block')
 })

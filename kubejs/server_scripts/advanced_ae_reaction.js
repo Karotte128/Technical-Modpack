@@ -112,4 +112,84 @@ ServerEvents.recipes(event => {
             }
         }
     )
+
+    //mek -> stellaris oxygen
+    event.custom(
+        {
+            "type": "advanced_ae:reaction",
+            "input_energy": 10000,
+            "input_fluid": {
+                "amount": 1000,
+                "ingredient": {
+                    "fluid": "mekanism:oxygen"
+                }
+            },
+            "input_items": [],
+            "output": {
+            "#": 1000,
+            "#t": "ae2:f",
+            "id": "stellaris:oxygen"
+            }
+        }
+    )
+
+    //stellaris -> mek oxygen
+    event.custom(
+        {
+            "type": "advanced_ae:reaction",
+            "input_energy": 10000,
+            "input_fluid": {
+                "amount": 1000,
+                "ingredient": {
+                    "fluid": "stellaris:oxygen"
+                }
+            },
+            "input_items": [],
+            "output": {
+            "#": 1000,
+            "#t": "ae2:f",
+            "id": "mekanism:oxygen"
+            }
+        }
+    )
+
+    //mek -> stellaris hydrogen
+    event.custom(
+        {
+            "type": "advanced_ae:reaction",
+            "input_energy": 10000,
+            "input_fluid": {
+                "amount": 1000,
+                "ingredient": {
+                    "fluid": "mekanism:hydrogen"
+                }
+            },
+            "input_items": [],
+            "output": {
+            "#": 1000,
+            "#t": "ae2:f",
+            "id": "stellaris:hydrogen"
+            }
+        }
+    )
+
+    //stellaris -> mek oxygen
+    event.custom(
+        {
+            "type": "advanced_ae:reaction",
+            "input_energy": 10000,
+            "input_fluid": {
+                "amount": 1000,
+                "ingredient": {
+                    "fluid": "stellaris:hydrogen"
+                }
+            },
+            "input_items": [],
+            "output": {
+            "#": 1000,
+            "#t": "ae2:f",
+            "id": "mekanism:hydrogen"
+            }
+        }
+    )
 })

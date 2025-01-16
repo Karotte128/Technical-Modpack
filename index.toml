@@ -321,6 +321,10 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
+file = "kubejs/client_scripts/translation.js"
+hash = "ee4320b8d96fa68df564246cb6d7d405c2c551117d4525f76e230a67a2580cb0"
+
+[[files]]
 file = "kubejs/config/client.json"
 hash = "df03c1643b14d02f973f786e219d07b77a7f49bdea07405d5b2584b7cb652def"
 
@@ -346,7 +350,7 @@ hash = "38d65ae9e6bf929b4c03463eb82f20e4a28b1ef6f0f47dbed83dcc98db80791a"
 
 [[files]]
 file = "kubejs/server_scripts/advanced_ae_reaction.js"
-hash = "a9cfe844e83d6e9347697ec3314191a3eca4bcfdb38e0429a8bb80f1fceece9e"
+hash = "157226664d1c13471e711eeb0db34047d5f3dd9327f967cba8bd218b80d39ff3"
 
 [[files]]
 file = "kubejs/server_scripts/ae2_transforming.js"
@@ -370,11 +374,11 @@ hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "a291aafa8f2cdfa8c2710eb7d113aeca35089a5c1c65c2990eed85dd9bb92b6e"
+hash = "5753d88c2cf97676ea1a3fd96ba797ab42b8dea929f84f3c98bdba08c50f4d63"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "edcf429e0012d663ade968c41e23d14423e13e30b767ca5ce6f71eea44243247"
+hash = "269f311bf4e8a73ce3bcd5a9239402ba41075b89f8d6639a858e63ccf7f627a5"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"

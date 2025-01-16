@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/general.toml"
+hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
+
+[[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "ae85f9c3ea4a18bb5c46e975b73a4a13888214abce571aafc33ed2f3f31b6e5a"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "0788268cda44d62b4b11d1f50f92ab8fa23e5c525c3c4af1f0a287ffd4a01584"
+
+[[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "1189abaa04ceb84cbb66ff3c6b026b252b02799c50a838c664b8169ee2c47a71"
+
+[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "52fccdd324d438e22516ead39c6e1cceb0e27bfdd7811c1eb6a842a69fead88c"
 
@@ -74,7 +90,7 @@ hash = "835289c12eb342b6f31a3fdb136c8b622cd3a8f341b6d0ed83b27f48211ef370"
 
 [[files]]
 file = "config/ae2-client.toml"
-hash = "106de6d815eb9c053f98f21af51c53ee9b238ec5fcfb09e7d582b84ba38fc45b"
+hash = "9c9fa0dd4dbbf2180719d536a6fd3f3a491ceeb57895d8b222f4f366c22afc8b"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -130,7 +146,7 @@ hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "0131db6d1935565ed64df8c792da67a089c802386e011da13f356b05256920cb"
+hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
 
 [[files]]
 file = "config/easy_piglins-server.toml"
@@ -143,6 +159,10 @@ hash = "ffbf93504e499a448f256d3b4d6ece4d784f5e3cf2b6ae8dbc460681e3185c2f"
 [[files]]
 file = "config/easy_villagers-server.toml"
 hash = "33b3ad83de4af27a9dafc4cb7e1a08e58da9ed138c16678d305cd4053f82084f"
+
+[[files]]
+file = "config/elevatorid-server.toml"
+hash = "7ed8fffdecaec045f605a77a9694aa48ae0ff7b42812b8177a5af6e35679d723"
 
 [[files]]
 file = "config/emi.css"
@@ -170,7 +190,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/extendedae-common.toml"
-hash = "b365e9065bd374276df2965cf6ede7377a7ba74be931253cd6de828d42881d40"
+hash = "9bcb5420d5999ab97de09f83f559fe8ac079c0090ab9c533f7148930be5e2ae7"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -374,11 +394,11 @@ hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "5753d88c2cf97676ea1a3fd96ba797ab42b8dea929f84f3c98bdba08c50f4d63"
+hash = "9d4bcb6b9f80feabea03f4bfb1fc54696219e0da2b4affc30bb4794207e9784a"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "269f311bf4e8a73ce3bcd5a9239402ba41075b89f8d6639a858e63ccf7f627a5"
+hash = "facabb2e474e239803b6da6d5b2a4640b1448992755a15b4136affe6e39d7d5a"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
@@ -404,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/advancedae.pw.toml"
 hash = "f458bb422b5ed9463bcb44bce7f37dc2308b8dd31430551740d6252fcdbcf961"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "fe6135f2a742a9cfa8272275a331132c7b80dc303fbac17325518a5ae0011ebc"
 metafile = true
 
 [[files]]

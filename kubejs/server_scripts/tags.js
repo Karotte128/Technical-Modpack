@@ -43,7 +43,23 @@ ServerEvents.tags('item', event => {
         'stellaris:steel_axe',
         'stellaris:steel_hoe',
         'stellaris:steel_shovel',
-        'stellaris:steel_sword'
+        'stellaris:steel_sword',
+        'advancedperipherals:redstone_integrator',
+        'advancedperipherals:colony_integrator',
+        'advancedperipherals:computer_tool',
+        'advancedperipherals:weak_automata_core',
+        'advancedperipherals:husbandry_automata_core',
+        'advancedperipherals:end_automata_core',
+        'advancedperipherals:overpowered_weak_automata_core',
+        'advancedperipherals:overpowered_husbandry_automata_core',
+        'advancedperipherals:overpowered_end_automata_core',
+        'toms_peripherals:redstone_port',
+        'stellaris:water_seperator',
+        'stellaris:fuel_refinery',
+        'stellaris:water_pump',
+        'stellaris:pumpjack',
+        'stellaris:pumpjack_drill',
+        'stellaris:oil_finder'
     ])
 
     event.remove('c:raw_materials', 'stellaris:raw_uranium_block')

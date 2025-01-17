@@ -393,6 +393,10 @@ file = "kubejs/server_scripts/mekanism_oxidizing.js"
 hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
+file = "kubejs/server_scripts/mekanism_rotary.js"
+hash = "dda1e7460fe4be81221bf1075b156106d396de8a4b2a658307c25f2e72fe35e7"
+
+[[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
 hash = "9d4bcb6b9f80feabea03f4bfb1fc54696219e0da2b4affc30bb4794207e9784a"
 
@@ -568,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "561f88e1928316bcb4105b5086cb724752a24e76690f229476b28596a590d696"
+hash = "b37e47ebb322b02d9d2d0c1000dbd8356748c070b2c04f20bfd1ec2720bdb7d0"
 metafile = true
 
 [[files]]

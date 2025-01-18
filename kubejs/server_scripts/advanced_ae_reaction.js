@@ -192,4 +192,112 @@ ServerEvents.recipes(event => {
             }
         }
     )
+
+    //fill big oxygen tank
+    event.custom({
+        "type": "advanced_ae:reaction",
+        "input_energy": 10000,
+        "input_fluid": {
+            "amount": 10800,
+            "ingredient": {
+                "fluid": "stellaris:oxygen"
+            }
+        },
+        "input_items": [
+            {
+            "ingredient": {
+                "item": "stellaris:big_oxygen_tank"
+            }
+            }
+        ],
+        "output": {
+            "#": 1,
+            "#t": "ae2:i",
+            "id": "stellaris:big_oxygen_tank",
+            "components": {
+              "stellaris:stored_oxygen": {"amount":10800,"capacity":10800}
+            }
+        }
+    })
+
+    //fill oxygen tank
+    event.custom({
+        "type": "advanced_ae:reaction",
+        "input_energy": 10000,
+        "input_fluid": {
+            "amount": 3600,
+            "ingredient": {
+                "fluid": "stellaris:oxygen"
+            }
+        },
+        "input_items": [
+            {
+            "ingredient": {
+                "item": "stellaris:oxygen_tank"
+            }
+            }
+        ],
+        "output": {
+            "#": 1,
+            "#t": "ae2:i",
+            "id": "stellaris:oxygen_tank",
+            "components": {
+              "stellaris:stored_oxygen": {"amount":3600,"capacity":3600}
+            }
+        }
+    })
+
+    //fill big oxygen tank
+    event.custom({
+        "type": "advanced_ae:reaction",
+        "input_energy": 10000,
+        "input_fluid": {
+            "amount": 10800,
+            "ingredient": {
+                "fluid": "stellaris:oxygen"
+            }
+        },
+        "input_items": [
+            {
+            "ingredient": {
+                "item": "stellaris:big_oxygen_tank"
+            }
+            }
+        ],
+        "output": {
+            "#": 1,
+            "#t": "ae2:i",
+            "id": "stellaris:big_oxygen_tank",
+            "components": {
+              "stellaris:stored_oxygen": {"amount":10800,"capacity":10800}
+            }
+        }
+    })
+
+    //fill space suit chestplate
+    event.custom({
+        "type": "advanced_ae:reaction",
+        "input_energy": 10000,
+        "input_fluid": {
+            "amount": 10800,
+            "ingredient": {
+                "fluid": "stellaris:oxygen"
+            }
+        },
+        "input_items": [
+            {
+            "ingredient": {
+                "item": "stellaris:space_suit_chestplate"
+            }
+            }
+        ],
+        "output": {
+            "#": 1,
+            "#t": "ae2:i",
+            "id": "stellaris:space_suit_chestplate",
+            "components": {
+              "stellaris:stored_oxygen": {"amount":10800,"capacity":10800}
+            }
+        }
+    })
 })

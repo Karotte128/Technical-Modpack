@@ -20,4 +20,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'stellaris:misc/pumpjack' })
     event.remove({ id: 'stellaris:misc/pumpjack_drill' })
     event.remove({ id: 'stellaris:misc/oil_finder' })
+    event.remove({ id: 'stellaris:misc/modules/oil_finder_module' })
+    event.remove({ id: 'stellaris:misc/water_separator' })
+    event.remove({ id: 'stellaris:misc/cable' })
 })

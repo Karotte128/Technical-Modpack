@@ -59,7 +59,7 @@ ServerEvents.recipes(event => {
         "block": {
             "item": "kubejs:reinforced_emerald_ore"
         },
-        "ticks": 300,
+        "ticks": 100,
         "result": {
             "id": "minecraft:emerald"
         }

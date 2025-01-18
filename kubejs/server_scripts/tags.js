@@ -59,7 +59,10 @@ ServerEvents.tags('item', event => {
         'stellaris:water_pump',
         'stellaris:pumpjack',
         'stellaris:pumpjack_drill',
-        'stellaris:oil_finder'
+        'stellaris:oil_finder',
+        'stellaris:oil_finder_module',
+        'stellaris:water_separator',
+        'stellaris:cable'
     ])
 
     event.remove('c:raw_materials', 'stellaris:raw_uranium_block')

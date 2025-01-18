@@ -134,7 +134,7 @@ ServerEvents.recipes(event => {
     )
 
     //stellaris -> mek oxygen
-    event.custom(
+    /* event.custom(
         {
             "type": "advanced_ae:reaction",
             "input_energy": 10000,
@@ -151,7 +151,7 @@ ServerEvents.recipes(event => {
             "id": "mekanism:oxygen"
             }
         }
-    )
+    ) */
 
     //mek -> stellaris hydrogen
     event.custom(
@@ -173,8 +173,8 @@ ServerEvents.recipes(event => {
         }
     )
 
-    //stellaris -> mek oxygen
-    event.custom(
+    //stellaris -> mek hydrogen
+    /* event.custom(
         {
             "type": "advanced_ae:reaction",
             "input_energy": 10000,
@@ -191,7 +191,7 @@ ServerEvents.recipes(event => {
             "id": "mekanism:hydrogen"
             }
         }
-    )
+    ) */
 
     //fill big oxygen tank
     event.custom({

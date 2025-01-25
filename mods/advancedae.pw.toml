@@ -1,13 +1,13 @@
 name = "AdvancedAE"
-filename = "AdvancedAE-1.2.1-1.21.1.jar"
+filename = "AdvancedAE-1.2.2-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rxYaglEe/versions/PieXT66H/AdvancedAE-1.2.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/rxYaglEe/versions/bWLb9RJ5/AdvancedAE-1.2.2-1.21.1.jar"
 hash-format = "sha512"
-hash = "a597b68525757f9f8c5d957a76b3302bd189d037d4d9b899d054010dd3d8ce47a27b4badc4a648ef9a8004f66240360872758f6114ece128933ac66a172286cf"
+hash = "f915dd2fec8087c691f8ccdd6ff09cd49b5baf5e48dad1f5c00f3a92a0bb895d8c2b9994e28925b19ab26c43e43e04f8002538c7394ed4e76d6a428e0a7add81"
 
 [update]
 [update.modrinth]
 mod-id = "rxYaglEe"
-version = "PieXT66H"
+version = "bWLb9RJ5"

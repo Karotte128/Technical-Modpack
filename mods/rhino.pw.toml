@@ -1,13 +1,13 @@
 name = "Rhino"
-filename = "rhino-2101.2.6-build.58.jar"
+filename = "rhino-2101.2.6-build.66.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sk9knFPE/versions/HeujSN8O/rhino-2101.2.6-build.58.jar"
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/hSZnqZO1/rhino-2101.2.6-build.66.jar"
 hash-format = "sha512"
-hash = "8c9134770449d176a1b60da832e652ac9e665d036052b724fcf8e48d1cd386dc6153a7d7c302315740bc2ab3ee321000ee44bbc847100302b514ba5ce2675d94"
+hash = "97608f0a16acac2ed574708cb6e99816a36311f82566f67c128f769fc2307c977e73d83b6887182ba54e927756d366ed770714d0a9121860c86672c17e20bcf6"
 
 [update]
 [update.modrinth]
 mod-id = "sk9knFPE"
-version = "HeujSN8O"
+version = "hSZnqZO1"

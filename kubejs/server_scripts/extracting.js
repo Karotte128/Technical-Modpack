@@ -5,6 +5,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_coal_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:coal"
         }
@@ -16,6 +17,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_iron_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:raw_iron"
         }
@@ -27,6 +29,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_copper_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:raw_copper"
         }
@@ -38,6 +41,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_gold_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "minecraft:raw_gold"
         }
@@ -49,6 +53,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_redstone_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:redstone"
         }
@@ -60,6 +65,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_emerald_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:emerald"
         }
@@ -71,6 +77,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_lapis_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "minecraft:lapis_lazuli"
         }
@@ -82,6 +89,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_diamond_ore"
         },
         "ticks": 400,
+        "energy": 100,
         "result": {
             "id": "minecraft:diamond"
         }
@@ -93,6 +101,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_quartz_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "minecraft:quartz"
         }
@@ -104,6 +113,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_ancient_debris"
         },
         "ticks": 400,
+        "energy": 100,
         "result": {
             "id": "minecraft:netherite_scrap"
         }
@@ -115,6 +125,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_tin_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "mekanism:raw_tin"
         }
@@ -126,6 +137,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_osmium_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "mekanism:raw_osmium"
         }
@@ -137,6 +149,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_uranium_ore"
         },
         "ticks": 300,
+        "energy": 100,
         "result": {
             "id": "stellaris:raw_uranium"
         }
@@ -148,6 +161,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_fluorite_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "mekanism:fluorite_gem"
         }
@@ -159,6 +173,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_lead_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "mekanism:raw_lead"
         }
@@ -170,6 +185,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_plutonium_ore"
         },
         "ticks": 100,
+        "energy": 100,
         "result": {
             "id": "stellaris:plutonium_nugget"
         }
@@ -181,6 +197,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_neptunium_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "stellaris:neptunium_ingot"
         }
@@ -192,6 +209,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_desh_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "stellaris:raw_desh_ingot"
         }
@@ -203,6 +221,7 @@ ServerEvents.recipes(event => {
             "item": "kubejs:reinforced_steel_ore"
         },
         "ticks": 200,
+        "energy": 100,
         "result": {
             "id": "stellaris:raw_steel_ingot"
         }

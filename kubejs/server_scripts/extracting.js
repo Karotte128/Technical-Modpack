@@ -55,7 +55,7 @@ ServerEvents.recipes(event => {
         "ticks": 100,
         "energy": 100,
         "result": {
-            "id": "minecraft:redstone"
+            "id": "minecraft:redstone_block"
         }
     })
 

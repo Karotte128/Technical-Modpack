@@ -1,0 +1,4 @@
+#Amount of energy the extractor can store
+# Default: 10000
+# Range: > 0
+storedEnergy = 100000

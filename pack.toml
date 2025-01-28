@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "27de8a31bb7756cf68e6aadc91ecaba32ec256991c2e5ae88bdc2e146df3c68d"
+hash = "726a8a533f7db595515c5945a6387b215110ca207da7a0d2b3be8d4c32d49213"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.113"
+neoforge = "21.1.115"

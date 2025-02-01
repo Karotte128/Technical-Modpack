@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "a5bbd17adbd0c285539527dc2e17ad6d5763e739b04c982286111e13d9d8fe2d"
+hash = "15acd28d1f6e770b34f471508099d30023bee757ecf460c45ee17ff52c6276c5"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "28a0ca6644d3cd35d2836ba23ea07442d86f89994e13e473a1d6b13144bf3724"
+hash = "c661a969c3ad099f178aa3f36337d80c839b6c98edcf254ef247397076f342af"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
-hash = "1997f65e0e34bef1cf3565fafabe155910275586ba469be08d222c2e69a97228"
+hash = "c194085f8571f418099049d0f1c804e7b135d4a7133f840ae2d3689dcf4a8843"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-piglins.pw.toml"
-hash = "457af938d83c2042c80fa74348d983c0217da48a87ce0e250739516c509948a5"
+hash = "36af297e1f1bf79d4b8fde07a29e1735283a177b462f5eeed3ea3d65050422ea"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "b37e47ebb322b02d9d2d0c1000dbd8356748c070b2c04f20bfd1ec2720bdb7d0"
+hash = "272406f3eb82c5edfd9b0bf52da9f86694830d1abb07253279b87e5c74c845ca"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6b46245f6e61bfa838c71eba6fe6ef08c64f5becd455ea9ac969ce4a72cfbc39"
+hash = "c9cddcc015a5d7b78dcae8954a676c07e9a6899608037900730f8c04b940746b"
 metafile = true
 
 [[files]]
@@ -622,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "a3a05b69dc7dff67a5740a7ba8860d42b8f7a62711ce1f5a1fd56e21591d69c9"
 metafile = true
 
 [[files]]

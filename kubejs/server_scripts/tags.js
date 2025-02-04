@@ -11,11 +11,6 @@ ServerEvents.tags('item', event => {
         'mekanismadditions:walkie_talkie',
         'extendedae:fishbig',
         'extendedae:mddyue',
-        'stellaris:steel_pickaxe',
-        'stellaris:steel_axe',
-        'stellaris:steel_hoe',
-        'stellaris:steel_shovel',
-        'stellaris:steel_sword',
         'advancedperipherals:redstone_integrator',
         'advancedperipherals:colony_integrator',
         'advancedperipherals:computer_tool',
@@ -26,6 +21,11 @@ ServerEvents.tags('item', event => {
         'advancedperipherals:overpowered_husbandry_automata_core',
         'advancedperipherals:overpowered_end_automata_core',
         'toms_peripherals:redstone_port',
+        'stellaris:steel_pickaxe',
+        'stellaris:steel_axe',
+        'stellaris:steel_hoe',
+        'stellaris:steel_shovel',
+        'stellaris:steel_sword',
         'stellaris:water_seperator',
         'stellaris:fuel_refinery',
         'stellaris:water_pump',
@@ -33,7 +33,7 @@ ServerEvents.tags('item', event => {
         'stellaris:pumpjack_drill',
         'stellaris:oil_finder',
         'stellaris:oil_finder_module',
-        'stellaris:water_separator',
-        'stellaris:cable'
+        'stellaris:cable',
+        'guideme:guide'
     ])
 })

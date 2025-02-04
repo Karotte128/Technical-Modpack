@@ -268,4 +268,14 @@ ServerEvents.recipes(event => {
       I: 'minecraft:iron_block',
   })
 
+  //reinforced deepslate
+  event.shaped('minecraft:reinforced_deepslate', [
+    'NNN',
+    'NDN',
+    'NNN'
+], {
+    N: 'minecraft:netherite_ingot',
+    D: 'minecraft:deepslate',
+})
+
 })

@@ -218,4 +218,15 @@ StartupEvents.registry('block', event => {
 	.requiresTool(true)
 	.texture('stellaris:block/moon_desh_ore')
 
+	event.create('reinforced_glowstone')
+	.displayName('Reinforced Glowstone')
+	.soundType('deepslate')
+	.hardness(50)
+	.resistance(50)
+	.tagBlock('minecraft:mineable/pickaxe')
+	.tagBlock('minecraft:needs_iron_tool')
+	.fullBlock(true)
+	.requiresTool(true)
+	.texture('minecraft:block/glowstone')
+
 })

@@ -226,4 +226,17 @@ ServerEvents.recipes(event => {
             "id": "stellaris:raw_steel_ingot"
         }
     })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_glowstone"
+        },
+        "ticks": 100,
+        "energy": 100,
+        "result": {
+            "id": "minecraft:glowstone_dust",
+            "count": 4
+        }
+    })
 })

@@ -2,3 +2,5 @@
 # Default: 10000
 # Range: > 0
 storedEnergy = 100000
+#Whether to use energy. Disable this if your modpack has no FE generators.
+useEnergy = true

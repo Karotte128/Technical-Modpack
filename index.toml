@@ -30,7 +30,7 @@ hash = "2f2d24a8ead7e09fbdd9cd962236c672575ca4e15130b18eff0cc253bf882e8f"
 
 [[files]]
 file = "config/Mekanism/common.toml"
-hash = "2ad36380327c2cf0aad77099451c1619b4b41534431fdfb2be3128776bb7ee36"
+hash = "80e7eea4af0966211b1c2e701dff3f0a4088d906393d5bc5a4fce2b40b3ae6d3"
 
 [[files]]
 file = "config/Mekanism/gear.toml"
@@ -38,7 +38,7 @@ hash = "7deb0ab9ebc8b5237f06cbc478ef78bf78b57b8894469fd9d30acde6d9a21fda"
 
 [[files]]
 file = "config/Mekanism/general.toml"
-hash = "11e477d930439d4443f6cd416e6440e2d9117a8134c0fdd45e589deb3754aa1e"
+hash = "c701be2b08281e849c2863bc7fca62f8c458cb8b7e181d591acbf366aeb98dfd"
 
 [[files]]
 file = "config/Mekanism/generator-storage.toml"
@@ -138,7 +138,7 @@ hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
 file = "config/blockextractor-common.toml"
-hash = "b014b98b53e7145fb8d11be2b8699dbceb10c67cc8722d96230a97a94ebecca0"
+hash = "6359b944187748d40f58cf81bcc299f4931a23a36c144ec16bd204cdb78985b6"
 
 [[files]]
 file = "config/cable_facades-common.toml"
@@ -209,6 +209,10 @@ file = "config/fml.toml"
 hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
 
 [[files]]
+file = "config/guideme.toml"
+hash = "03e9763615a4e91a01429fa307bbc8cab159fff236096e528ac0fa9114658150"
+
+[[files]]
 file = "config/hyperbox-client.toml"
 hash = "827a5c0948d86dcc3704ada3c1e0408f961712312ddce894c66f052117acb570"
 
@@ -274,7 +278,7 @@ hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
 
 [[files]]
 file = "config/neoforge-common.toml"
-hash = "b5e25c34930138ea9c4f43fda8a083c8295e971c8d433e059436923c6685c3b5"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
 
 [[files]]
 file = "config/neoforge-server.toml"
@@ -398,7 +402,7 @@ hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "00de01f885117b1091ac57d192a85c1e36ef57b6801dc6f32d17b7c27cf4496b"
+hash = "ab4e5c1f8de9187aefea8e4c7b87729891ef6f9b198fc299c578074ae5b0bcff"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -406,7 +410,7 @@ hash = "75c7e1eeebc3fc5af8655e91f48ddc043bd5d10142440cdf5ed571166a129788"
 
 [[files]]
 file = "kubejs/server_scripts/extracting.js"
-hash = "1e2469bde0cc3f8c285edc9453195cc1df13f12c53b8b0ed727df414d4561926"
+hash = "ed3ad8401a19318d405e49893c902aefa129f4502a249103495650c6f94a79aa"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism_evaporating.js"
@@ -426,11 +430,11 @@ hash = "c88cc888fd463cc7c0c092c35e26de70d3a7020499bc52884b64f5bf1d7f7e04"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "1d54ea5285ce7b2af3ac6da021bd2c962e8dec8cef075e98e5e4260a5d956833"
+hash = "aee85ce4a3d530dd5ad6ff8ba09ea82f87acb5371a75de47cb7b12c05b6a7e36"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
-hash = "ee5338df0ef3960a8c96913dff020c00288f28030cbc0f5a1647eddab2fb0270"
+hash = "80331965686daa2ba47b781b4afbc6c72c2d563d1d810731e8e6b43048e2ac2d"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -456,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "6a545677dbed3f330e995a6981a2fb92db64861786fdcde69a3623041e99cd03"
+hash = "76cf19f38a1ee40338f85be58d6f33d30e8f4cbb4bb84af72be3011da5da6962"
 metafile = true
 
 [[files]]
@@ -521,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockextractor.pw.toml"
-hash = "14675db2efd33cf5cc92949fa404ef57beb66620d94b94d08ffb9b8960da1095"
+hash = "87022e18a35e41a64803fe06457a1951ab53d1336190270aa774f109a1292906"
 metafile = true
 
 [[files]]
@@ -646,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e379c1e5da117e101dfb6ea2b90022eee85dfed17c22baf1b20ad9122c699e30"
+hash = "241a788ca1c7ebd2b4eeca828e2d7faaa962f6211bb1a8e38b47b9b16344b4b8"
 metafile = true
 
 [[files]]

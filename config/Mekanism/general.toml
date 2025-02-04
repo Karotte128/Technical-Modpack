@@ -129,15 +129,15 @@ maxSolarNeutronActivatorRate = 64
 	#Amount of chemical (mB) that can be stored in a Radioactive Waste Barrel.
 	# Default: 512000
 	# Range: 1 ~ 9223372036854775807
-	wasteBarrelCapacity = 512000
+	wasteBarrelCapacity = 1024000
 	#Number of ticks required for radioactive chemical stored in a Radioactive Waste Barrel to decay radioactiveWasteBarrelDecayAmount mB.
 	# Default: 20
 	# Range: > 1
-	wasteBarrelProcessTicks = 20
+	wasteBarrelProcessTicks = 200
 	#Number of mB of chemical that decay every radioactiveWasteBarrelProcessTicks ticks when stored in a Radioactive Waste Barrel. Set to zero to disable decay all together. (Chemicals in the mekanism:waste_barrel_decay_blacklist tag will not decay).
 	# Default: 1
 	# Range: 0 ~ 9223372036854775807
-	wasteBarrelDecayAmount = 1
+	wasteBarrelDecayAmount = 0
 
 #Settings for configuring the Digital Miner
 [digital_miner]
@@ -211,9 +211,9 @@ maxSolarNeutronActivatorRate = 64
 #Settings for configuring Mekanism's security system
 [security]
 	#Enable the security system. This allows players to prevent other players from accessing their machines. Does NOT affect Frequencies.
-	allowProtection = true
+	allowProtection = false
 	#If this is enabled then players with the 'mekanism.bypass_security' permission (default for ops) can bypass block and item security restrictions.
-	opsBypassRestrictions = false
+	opsBypassRestrictions = true
 
 #Settings for configuring Nutritional Paste
 [nutritional_paste]

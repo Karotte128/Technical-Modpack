@@ -38,7 +38,7 @@ hash = "7deb0ab9ebc8b5237f06cbc478ef78bf78b57b8894469fd9d30acde6d9a21fda"
 
 [[files]]
 file = "config/Mekanism/general.toml"
-hash = "c701be2b08281e849c2863bc7fca62f8c458cb8b7e181d591acbf366aeb98dfd"
+hash = "7349b42711cd9ad74e9d53c62a4d6cadbcbad9b33e493d96459703764a60d726"
 
 [[files]]
 file = "config/Mekanism/generator-storage.toml"
@@ -138,11 +138,11 @@ hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
 file = "config/blockextractor-common.toml"
-hash = "6359b944187748d40f58cf81bcc299f4931a23a36c144ec16bd204cdb78985b6"
+hash = "de1bd45d2a0df1f754f1a78063c8fa0216d7ba47cc7378058224c9a28eeacab9"
 
 [[files]]
 file = "config/cable_facades-common.toml"
-hash = "cc6d35d1b70b1a95b0770f0ce8d256e7d9c7a7adcd226fc028dce5e407c216de"
+hash = "64637eb0d2bb307823f05f3fb578991e9a023fcb8f5c0ba3d76783b59ac3552a"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -167,6 +167,14 @@ hash = "33b3ad83de4af27a9dafc4cb7e1a08e58da9ed138c16678d305cd4053f82084f"
 [[files]]
 file = "config/elevatorid-server.toml"
 hash = "7ed8fffdecaec045f605a77a9694aa48ae0ff7b42812b8177a5af6e35679d723"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "f6df77b78206033428d0873f8b3be3a8c4f7e682cef67d25fe28ad8ac8b4ba98"
 
 [[files]]
 file = "config/emi.css"
@@ -287,22 +295,6 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 [[files]]
 file = "config/skinlayers.json"
 hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "dfae81660eb608e284b30188c65fae8ff29365fbad413a87304f8bdfe395b38e"
 
 [[files]]
 file = "config/stellaris.json"
@@ -559,6 +551,11 @@ hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -645,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ca8e90d44722f5fe35427d7ad1f7f34ce78155031a6dc76dfd11dd4064873693"
+hash = "c71462d72924eb6f74dca8c4701d7309cf3a8a028c06a9c1882cd577f1db5dfb"
 metafile = true
 
 [[files]]
@@ -719,6 +716,11 @@ hash = "ba493deef3ee2f985842497b04ae22fcca0a718cd0c9983a8c8b0890c55a4b0e"
 metafile = true
 
 [[files]]
+file = "mods/monocle-iris.pw.toml"
+hash = "ebb19f81682fcc81ee7330d3b94800eb0696c8de54d1df84e935781c4fa42af5"
+metafile = true
+
+[[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
 hash = "6d98729991915029e080d35d7493c11de9168fd09e58247ecb5b3dca499dee1e"
 metafile = true
@@ -734,11 +736,6 @@ hash = "f32de9c72847686fdb91cea47c7688eda0336b0f96ae11c234a30366d1ba5c42"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "bc81bbd0a028b0e4144658aa4adcd08145e0acd6ab6b738f4706cd606c27b315"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "5e656106b3f150c0f27ecb6075eda95e120b32a53f22543522d540bfa5a2e7f0"
 metafile = true
@@ -746,16 +743,6 @@ metafile = true
 [[files]]
 file = "mods/smithing-template-viewer.pw.toml"
 hash = "a1ad2a6962056f1d9ee5d1ac5ca91fd8935a4922afe4b4c0d71b72ae648756e4"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "9050cb92f35f8057726ec547ba3306726a1a4f3b5ed0d147b70d2dc30dcff582"
 metafile = true
 
 [[files]]

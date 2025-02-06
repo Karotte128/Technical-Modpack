@@ -129,7 +129,7 @@ maxSolarNeutronActivatorRate = 64
 	#Amount of chemical (mB) that can be stored in a Radioactive Waste Barrel.
 	# Default: 512000
 	# Range: 1 ~ 9223372036854775807
-	wasteBarrelCapacity = 1024000
+	wasteBarrelCapacity = 2048000
 	#Number of ticks required for radioactive chemical stored in a Radioactive Waste Barrel to decay radioactiveWasteBarrelDecayAmount mB.
 	# Default: 20
 	# Range: > 1

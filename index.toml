@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "a26bd481de0c7f2823db1a3841e055584270635067315f99c28bba841a3083d2"
+hash = "d243658f106e960c295c7b7f9e770fe031340b6c23ea87748364fe6b23145a56"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "272406f3eb82c5edfd9b0bf52da9f86694830d1abb07253279b87e5c74c845ca"
+hash = "74cfa05a67cb00fa7f52a32efdcb65055ae97892227ab4b078cf0217e9cc4193"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
-hash = "6d98729991915029e080d35d7493c11de9168fd09e58247ecb5b3dca499dee1e"
+hash = "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5"
 metafile = true
 
 [[files]]

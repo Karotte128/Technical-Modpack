@@ -26,7 +26,7 @@ ServerEvents.tags('item', event => {
         'stellaris:steel_hoe',
         'stellaris:steel_shovel',
         'stellaris:steel_sword',
-        'stellaris:water_seperator',
+        'stellaris:water_separator',
         'stellaris:fuel_refinery',
         'stellaris:water_pump',
         'stellaris:pumpjack',

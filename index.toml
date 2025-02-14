@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "76cf19f38a1ee40338f85be58d6f33d30e8f4cbb4bb84af72be3011da5da6962"
+hash = "7ba6741d176fc158b20cf60442225fd589f7ec02a20444f9ddebae8e7c65b029"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "74cfa05a67cb00fa7f52a32efdcb65055ae97892227ab4b078cf0217e9cc4193"
+hash = "11612cddf81b2cbd7d8d3a97b49a47b80cf3f0d7f4bdce89dd39371a730b3f4c"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "0fb9560f290ae65889a1708435149570265164d4d7c4716f91ab928eda5fffc1"
+hash = "6c968abce1fb2abfda7534b9ceba15a2a3fd8d01f387890256bd67aeffdcf8af"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "5e656106b3f150c0f27ecb6075eda95e120b32a53f22543522d540bfa5a2e7f0"
+hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "fefdaef538a557157dfb43dfad909111e1c20090efa901bcdde8720a15251408"
+hash = "8f51fb99fb0e07f7ebb03af1e66c5dfa344579710ad240dc467eebfa0550f4bd"
 metafile = true
 
 [[files]]

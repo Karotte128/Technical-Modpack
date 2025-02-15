@@ -34,6 +34,8 @@ ServerEvents.tags('item', event => {
         'stellaris:oil_finder',
         'stellaris:oil_finder_module',
         'stellaris:cable',
-        'guideme:guide'
+        'guideme:guide',
+        'blockextractor:example_item',
+        'blockextractor:example_block'
     ])
 })

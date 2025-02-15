@@ -23,4 +23,5 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'stellaris:misc/modules/oil_finder_module' })
     event.remove({ id: 'stellaris:misc/water_separator' })
     event.remove({ id: 'stellaris:misc/cable' })
+    event.remove({ id: 'blockextractor:example_item_from_block' })
 })

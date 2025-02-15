@@ -1,13 +1,13 @@
 name = "BlockExtractor"
-filename = "blockextractor-1.4-SNAPSHOT.jar"
+filename = "blockextractor-1.5-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IS5qJvVm/versions/60m6Lw4k/blockextractor-1.4-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/IS5qJvVm/versions/Xg7wky86/blockextractor-1.5-SNAPSHOT.jar"
 hash-format = "sha512"
-hash = "8c369367dc05934bd107f3b5a74e14efa8d621943e089e5bcbec29c5008276b5af8fcb685c4ddfc1ca0bcabe736b47e6e36c4b2a8eea274e38fe308d444c90ae"
+hash = "929adb33c452d758cc531d35003e07101bbddf56be961a564fddda56fde8f81f9d32f589a546b60e089a85dd6d8f1c06c9458f97382a9514ca0be730f57a03ec"
 
 [update]
 [update.modrinth]
 mod-id = "IS5qJvVm"
-version = "60m6Lw4k"
+version = "Xg7wky86"

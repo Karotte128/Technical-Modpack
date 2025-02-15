@@ -217,8 +217,16 @@ file = "config/fml.toml"
 hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
 
 [[files]]
+file = "config/framedblocks-client.toml"
+hash = "12b73219d199759e5d4fe0305497ae64abec2885ed1f0240c57f564e58525eae"
+
+[[files]]
+file = "config/framedblocks-server.toml"
+hash = "7b30334c600f3aba7e9b262679757d4c923f5ef8ad49e61d479d3834c298916a"
+
+[[files]]
 file = "config/guideme.toml"
-hash = "03e9763615a4e91a01429fa307bbc8cab159fff236096e528ac0fa9114658150"
+hash = "38ab465f74329ac9af3585653acc1add5342820efa37762cba3d9e0b5b5a1826"
 
 [[files]]
 file = "config/hyperbox-client.toml"
@@ -250,11 +258,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "fa811b894b3dd2a32abaa9282f248973320796d864a3aa077be910bd1caa8199"
+hash = "01076e5676a81b54d04a536eb23a3a26c63fff7d00c0c2b3ad5f466430483acf"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "79c077047d94283e1ccc59caeec5c18d9a58376b14cb3d8d812cd673c27bea94"
+hash = "c21343ea50d22a3d19fa6d3954f986f7f9982c1e6f842caa060e2594a09c1cfa"
 
 [[files]]
 file = "config/jei_mekanism_multiblocks-client.toml"
@@ -418,11 +426,11 @@ hash = "dda1e7460fe4be81221bf1075b156106d396de8a4b2a658307c25f2e72fe35e7"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "c88cc888fd463cc7c0c092c35e26de70d3a7020499bc52884b64f5bf1d7f7e04"
+hash = "83e6c817f834707ad4688a8a78c6a2db4aab1096a54451880416f48ff98a2c2e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "886d44aa2f07367180c8d0f560ec8c9991dadb06787bbfc6dbcf167ea4558832"
+hash = "dc77b3d872425ed727323718a4e0a8b19d784f35194760cb5152e602d6917b57"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
@@ -477,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c661a969c3ad099f178aa3f36337d80c839b6c98edcf254ef247397076f342af"
+hash = "8a5de386e40878af07d167c5ad2b9c0267d096bc1d661f805c4ae233342b45fa"
 metafile = true
 
 [[files]]
@@ -517,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockextractor.pw.toml"
-hash = "87022e18a35e41a64803fe06457a1951ab53d1336190270aa774f109a1292906"
+hash = "c98fc422e6586922187e61747235c033ff009426076bf7f6d9f7e68fa2f036d8"
 metafile = true
 
 [[files]]
@@ -527,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c95163f6ac55f1b5369b79511d4d2ef9d9a742353a347f2a40cbdec5625eb3e3"
+hash = "ce8d74915fb947fb51f57ffb89b4be3ea9fc794c806f76ff06db11cc9897c5b6"
 metafile = true
 
 [[files]]

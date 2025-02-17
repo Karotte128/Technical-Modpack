@@ -1,0 +1,13 @@
+name = "FramedBlocks"
+filename = "FramedBlocks-10.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wbgfS34j/versions/DGSMz2CQ/FramedBlocks-10.2.4.jar"
+hash-format = "sha512"
+hash = "1f2745aa3f450c4007dcbffe3817bc435b5f32c996185edba87a6a24dce31bd95172f9251541bf23269024e79d318bc97dc677eaadd57ca1b9dd8075a4c81bf5"
+
+[update]
+[update.modrinth]
+mod-id = "wbgfS34j"
+version = "DGSMz2CQ"

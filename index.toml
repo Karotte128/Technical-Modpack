@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/elevatormod.pw.toml"
-hash = "b5f831982eda350230c8dd68ba39aa49f39a56a707562f21f244774f1a1db735"
+hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
 
 [[files]]
@@ -619,6 +619,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "d94358aa5ea07f12113b4a489edf0c0881629ab8a866e0e1ae23b23d9c1a6f02"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c9cddcc015a5d7b78dcae8954a676c07e9a6899608037900730f8c04b940746b"
 metafile = true
@@ -655,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "241a788ca1c7ebd2b4eeca828e2d7faaa962f6211bb1a8e38b47b9b16344b4b8"
+hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
 metafile = true
 
 [[files]]

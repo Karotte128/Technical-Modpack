@@ -239,4 +239,16 @@ ServerEvents.recipes(event => {
             "count": 4
         }
     })
+
+    event.custom({
+        "type": "blockextractor:extracting",
+        "block": {
+            "item": "kubejs:reinforced_zinc_ore"
+        },
+        "ticks": 100,
+        "energy": 100,
+        "result": {
+            "id": "create:zinc_ingot"
+        }
+    })
 })

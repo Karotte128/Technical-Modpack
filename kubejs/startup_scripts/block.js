@@ -229,4 +229,15 @@ StartupEvents.registry('block', event => {
 	.requiresTool(true)
 	.texture('minecraft:block/glowstone')
 
+	event.create('reinforced_zinc_ore')
+	.displayName('Reinforced Zinc Ore')
+	.soundType('deepslate')
+	.hardness(50)
+	.resistance(50)
+	.tagBlock('minecraft:mineable/pickaxe')
+	.tagBlock('minecraft:needs_iron_tool')
+	.fullBlock(true)
+	.requiresTool(true)
+	.texture('create:block/deepslate_zinc_ore')
+
 })

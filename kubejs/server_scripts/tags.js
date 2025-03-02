@@ -36,6 +36,8 @@ ServerEvents.tags('item', event => {
         'stellaris:cable',
         'guideme:guide',
         'blockextractor:example_item',
-        'blockextractor:example_block'
+        'blockextractor:example_block',
+        'create:copycat_panel',
+        'create:copycat_step'
     ])
 })

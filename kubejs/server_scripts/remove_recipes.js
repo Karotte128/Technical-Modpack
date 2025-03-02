@@ -24,4 +24,6 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'stellaris:misc/water_separator' })
     event.remove({ id: 'stellaris:misc/cable' })
     event.remove({ id: 'blockextractor:example_item_from_block' })
+    event.remove({ id: 'create:copycat_panel_from_ingots_zinc_stonecutting' })
+    event.remove({ id: 'create:copycat_step_from_ingots_zinc_stonecutting' })
 })

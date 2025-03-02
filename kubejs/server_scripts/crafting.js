@@ -249,12 +249,22 @@ ServerEvents.recipes(event => {
   //reinforced desh ore
   event.shaped('kubejs:reinforced_desh_ore', [
       'III',
-     'IRI',
-     'III'
+      'IRI',
+      'III'
     ], {
       R: 'minecraft:reinforced_deepslate',
       I: '#c:ores/desh',
-})
+  })
+
+  //reinforced zinc
+  event.shaped('kubejs:reinforced_zinc_ore', [
+      'ZZZ',
+      'ZRZ',
+      'ZZZ'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      Z: '#c:ores/zinc',
+  })
 
   //block extractor
   event.shaped('blockextractor:extractor_block', [
@@ -273,9 +283,9 @@ ServerEvents.recipes(event => {
     'NNN',
     'NDN',
     'NNN'
-], {
+  ], {
     N: 'minecraft:netherite_ingot',
     D: 'minecraft:deepslate',
-})
+  })
 
 })

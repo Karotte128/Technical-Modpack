@@ -1,13 +1,13 @@
 name = "Mekanism Tools"
-filename = "MekanismTools-1.21.1-10.7.8.70.jar"
+filename = "MekanismTools-1.21.1-10.7.10.73.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tqQpq1lt/versions/I1g8yRKm/MekanismTools-1.21.1-10.7.8.70.jar"
+url = "https://cdn.modrinth.com/data/tqQpq1lt/versions/XXh6nKah/MekanismTools-1.21.1-10.7.10.73.jar"
 hash-format = "sha512"
-hash = "244451f3d62710f1c046d2dc5d76cf98513cdf271a8e436020b0cf2918dfa780dc75fb282eddd75a216f9bd95f5d4948b2d6a64cbda28c384df61be777a19009"
+hash = "515acbc5cf9263d2a63c0d99ae72c3ac7e97c186950112014d2644b80a3b5189db0f64116c3e8f578c89b979a103086333c366f25f77699ed751e4a5c195f513"
 
 [update]
 [update.modrinth]
 mod-id = "tqQpq1lt"
-version = "I1g8yRKm"
+version = "XXh6nKah"

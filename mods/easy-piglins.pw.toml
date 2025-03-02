@@ -1,13 +1,13 @@
 name = "Easy Piglins"
-filename = "easy-piglins-neoforge-1.21.1-1.0.14.jar"
+filename = "easy-piglins-neoforge-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l6n94pax/versions/ud6gz0mh/easy-piglins-neoforge-1.21.1-1.0.14.jar"
+url = "https://cdn.modrinth.com/data/l6n94pax/versions/C0ZG4QHo/easy-piglins-neoforge-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "54fe561b7bdfdf63b21828bf3cb7fe28a16cbdfb14cdefa8d0a6a3a68a3b958b28ff4abe3a3bb79adf2f642a5ecc60ce95aca386f70dfdc81e4511eccfc90ead"
+hash = "22a1069a339f5f87760adea1a14ac98fef052f1a92ea59297ad4e0db078482b315d6e4cf673bdaa4130c982736577358bef2c2ecbc3aa73eee46d733ad596f79"
 
 [update]
 [update.modrinth]
 mod-id = "l6n94pax"
-version = "ud6gz0mh"
+version = "C0ZG4QHo"

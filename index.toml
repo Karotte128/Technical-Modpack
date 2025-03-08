@@ -390,7 +390,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/translation.js"
-hash = "ee4320b8d96fa68df564246cb6d7d405c2c551117d4525f76e230a67a2580cb0"
+hash = "a39e195757c8f967bb80c76aae2a62d8939b6fed60fea6d908d095289e521daf"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -418,7 +418,7 @@ hash = "38d65ae9e6bf929b4c03463eb82f20e4a28b1ef6f0f47dbed83dcc98db80791a"
 
 [[files]]
 file = "kubejs/server_scripts/advanced_ae_reaction.js"
-hash = "68e33c5c1623830dd220e77d8ce3cc0b889deda5257066e57e06d74aa691a113"
+hash = "7978aa57274150944c4b6e5e9afc2715d137ef716ab3721ab10238f9f1c2f1de"
 
 [[files]]
 file = "kubejs/server_scripts/ae2_transforming.js"
@@ -446,15 +446,15 @@ hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism_rotary.js"
-hash = "dda1e7460fe4be81221bf1075b156106d396de8a4b2a658307c25f2e72fe35e7"
+hash = "a5a59ea17ce1a0b741ccfbe73112cf758a4d08d4cafeb7ca3bebaa5b83317404"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "f66f99db982a5c9f7e04eebfbc96f7fa3f27021253fac1cad1f46d68e83294ce"
+hash = "1e73feba6f6fbef8b2521daa95488a47af91d1f1b1c85003739de748991a385c"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "5877c6896b4511fc9e48b76105f9867beea69fc116b2eff9d43718e5e90ea7f1"
+hash = "1fe2c65c51d9091dd52202a02cb4455d1c1e01384524080bc6d7fefc7ab1a213"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"

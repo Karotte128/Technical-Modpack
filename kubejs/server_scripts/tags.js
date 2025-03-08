@@ -34,10 +34,23 @@ ServerEvents.tags('item', event => {
         'stellaris:oil_finder',
         'stellaris:oil_finder_module',
         'stellaris:cable',
+        'stellaris:cable_t2',
+        'stellaris:cable_t3',
+        'stellaris:pipe_t1',
+        'stellaris:pipe_t2',
+        'stellaris:pipe_t3',
         'guideme:guide',
         'blockextractor:example_item',
         'blockextractor:example_block',
         'create:copycat_panel',
         'create:copycat_step'
     ])
+})
+
+ServerEvents.tags('fluid', event => {
+    event.add("c:hidden_from_recipe_viewers", 'mekanism:oxygen')
+    event.add("c:hidden_from_recipe_viewers", 'mekanism:hydrogen')
+
+    event.add("c:oxygen", 'stellaris:oxygen')
+    event.add("c:hydrogen", 'stellaris:hydrogen')
 })

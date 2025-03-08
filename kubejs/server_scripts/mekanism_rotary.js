@@ -18,4 +18,44 @@ ServerEvents.recipes(event => {
             "id": "stellaris:oil"
         }
     })
+
+    event.custom({
+        "type": "mekanism:rotary",
+        "chemical_input": {
+          "amount": 1,
+          "chemical": "mekanism:oxygen"
+        },
+        "chemical_output": {
+          "amount": 1,
+          "id": "mekanism:oxygen"
+        },
+        "fluid_input": {
+          "amount": 1,
+          "tag": "c:oxygen"
+        },
+        "fluid_output": {
+          "amount": 1,
+          "id": "stellaris:oxygen"
+        }
+    })
+
+    event.custom({
+        "type": "mekanism:rotary",
+        "chemical_input": {
+          "amount": 1,
+          "chemical": "mekanism:hydrogen"
+        },
+        "chemical_output": {
+          "amount": 1,
+          "id": "mekanism:hydrogen"
+        },
+        "fluid_input": {
+          "amount": 1,
+          "tag": "c:hydrogen"
+        },
+        "fluid_output": {
+          "amount": 1,
+          "id": "stellaris:hydrogen"
+        }
+      })
 })

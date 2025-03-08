@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff71b3c719839b4b01cbc6d247b96fbd4902ae472b8439071f1c8c3e2721b17f"
+hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "8ba7b79905fe723c91048c09d0ad907669b828062d8361ede9bef40e594b5bf6"
+hash = "a2df2bfe6f65affc2153a6d727530cf1c8e7777d8a74fe94d04acdb130fab492"
 metafile = true
 
 [[files]]
@@ -649,12 +649,12 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "d94358aa5ea07f12113b4a489edf0c0881629ab8a866e0e1ae23b23d9c1a6f02"
+hash = "0ee1af8f0a8c23743ac2308683c79d54cc0804571abc83fa392819aae0aaddb7"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c9cddcc015a5d7b78dcae8954a676c07e9a6899608037900730f8c04b940746b"
+hash = "b15c066e6dda1857e2f7fb6e1f724a9fc95c2d222122500c14ccd987d4ea24fd"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
+hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
 
 [[files]]

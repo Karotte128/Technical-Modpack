@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "140579adeaa079871292e4a38ec09aeb3346cf411808768051608782799ec11f"
+hash = "0769f0f0fd12a2911d30d9da71dfc59fcc0cf841a23a4ee3a976060f3290ffec"
 metafile = true
 
 [[files]]
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "bb1a95b3722577e3740bd8a8c535c14eafe53b0a36d35dcfc070a95745253657"
+hash = "de00e5e06862a2082d9a9b3fb3fd0592115e2f8b4cc08418b51ca3cc10f82127"
 metafile = true
 
 [[files]]

@@ -273,7 +273,7 @@ ServerEvents.recipes(event => {
       'GGG'
   ], {
       R: 'minecraft:reinforced_deepslate',
-      Z: 'minecraft:glowstone',
+      G: 'minecraft:glowstone',
   })
 
   //block extractor

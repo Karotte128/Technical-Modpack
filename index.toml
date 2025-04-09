@@ -426,7 +426,7 @@ hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "5ca034cb6bb9c8cfd1e9434cd1173edc64222d72d48e726b2c84fe4ff9b82d9e"
+hash = "20cbd4ec0586d04e41895bd6e162bd66a793eb0fe43236f9de7b38cf80b64566"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"

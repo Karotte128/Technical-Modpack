@@ -266,6 +266,16 @@ ServerEvents.recipes(event => {
       Z: '#c:ores/zinc',
   })
 
+  //reinforced glowstone
+  event.shaped('kubejs:reinforced_glowstone', [
+      'GGG',
+      'GRG',
+      'GGG'
+  ], {
+      R: 'minecraft:reinforced_deepslate',
+      Z: 'minecraft:glowstone',
+  })
+
   //block extractor
   event.shaped('blockextractor:extractor_block', [
       'SSS',

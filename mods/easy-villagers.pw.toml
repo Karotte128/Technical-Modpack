@@ -1,13 +1,13 @@
 name = "Easy Villagers"
-filename = "easy-villagers-neoforge-1.21.1-1.1.23.jar"
+filename = "easy-villagers-neoforge-1.21.1-1.1.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/uAfv3Z0Z/easy-villagers-neoforge-1.21.1-1.1.23.jar"
+url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/SJ4xUzy0/easy-villagers-neoforge-1.21.1-1.1.24.jar"
 hash-format = "sha512"
-hash = "43f1fc3b0dd19f53ac4db0166dcd8d185927dcfa693ea18cb2ccc56ec6f60bdff15be5f64ee36400cd9b173ef1ff7e8816d7f24658e692569f4f8e58509c9fcf"
+hash = "9bb42f60d333a256c97afe9ea5061f8708e89beecdb9b1504c092bf084a112fe739d37b5fa779eca10c377cfe10b0c01a0e425e7bebb98c5751b84f26896ff7c"
 
 [update]
 [update.modrinth]
 mod-id = "Kaov2qgi"
-version = "uAfv3Z0Z"
+version = "SJ4xUzy0"

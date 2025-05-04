@@ -45,27 +45,6 @@ ServerEvents.recipes(event => {
     'mekanism:ultimate_energy_cube[mekanism:energy={energy_containers:[L;256000000L]}]'
   ])
 
-  //experience acceptor
-  event.shaped('appex:experience_acceptor', [
-      'IQI',
-      'QEQ',
-      'IQI'
-    ], {
-      Q: 'ae2:quartz_glass',
-      I: 'minecraft:iron_ingot',
-      E: 'minecraft:experience_bottle',
-  })
-
-  //experience converter
-  event.shaped('appex:experience_converter', [
-      'GGG',
-      'GEG',
-      'GGG'
-    ], {
-      G: 'minecraft:glass',
-      E: 'minecraft:experience_bottle',
-  })
-
   //reinforced coal ore
   event.shaped('kubejs:reinforced_coal_ore', [
       'III',

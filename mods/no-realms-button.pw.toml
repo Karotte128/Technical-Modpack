@@ -1,13 +1,13 @@
 name = "No Realms Button"
-filename = "NoRealmsButton-1.1.0-neoforge.jar"
+filename = "NoRealmsButton-2.0.0-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/sxnBcmRA/NoRealmsButton-1.1.0-neoforge.jar"
+url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/SNM9wQYE/NoRealmsButton-2.0.0-neoforge.jar"
 hash-format = "sha512"
-hash = "c58a6b4c9ad1ed130bffe47c1f8106b333c6231cc8d9abaaf0306f5c54955e12a1e0c0ecd3e43e402810aade3068055e1534152457e7245b34367334fa11e493"
+hash = "e6991887f87b10c9a4c0ee8cd1368d806f8a1eb4928de0ccae3ca6aa6f63c613751f7ffc866bf38da25b064ab326d3c5b3beae9aa23459951206a26581fc60d9"
 
 [update]
 [update.modrinth]
 mod-id = "AMMUyCdF"
-version = "sxnBcmRA"
+version = "SNM9wQYE"

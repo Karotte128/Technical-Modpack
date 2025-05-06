@@ -1,13 +1,13 @@
 name = "FramedBlocks"
-filename = "FramedBlocks-10.3.1.jar"
+filename = "FramedBlocks-10.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wbgfS34j/versions/jvivVdEd/FramedBlocks-10.3.1.jar"
+url = "https://cdn.modrinth.com/data/wbgfS34j/versions/oYIhUq5n/FramedBlocks-10.3.2.jar"
 hash-format = "sha512"
-hash = "fbc564a85914d494e53130615880c02eee49c2dfaa033b071f59c3f7a739fb1f9bf1f30c8cf9e20a722dceb702fbc25c66c381740644775168d7955ff951cdd6"
+hash = "ac4b17cd661a41bf5e15ae2ea128b5e9855980e35761136244465d156c4024f47cbd34d111e716fc41e4ea1005174e2eea32f44b10beb2a583d0926b88fb0ec5"
 
 [update]
 [update.modrinth]
 mod-id = "wbgfS34j"
-version = "jvivVdEd"
+version = "oYIhUq5n"

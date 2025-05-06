@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "8c0142c457f1b80b7792afe435bb625e91b60496cc01ed07eff87abad844c040"
+hash = "cf71bda14feddbce48d4c01b42b7734f0a42c42a473c9fe4c6720c43b7c668e6"
 metafile = true
 
 [[files]]
@@ -574,12 +574,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "551af8e8696fc14390300e7847145176f8335f36365e44eb59732c2bf768d36f"
+hash = "2a8f7e581f05e7d2758467a8206fc46c52263f14b94d8e9814be750a907cbfcf"
 metafile = true
 
 [[files]]
 file = "mods/create-no-entities.pw.toml"
 hash = "fa15e43716fba85b8c7c886dfad464c397c3f266197b309fa3561a8538d571e0"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "564a7376ded80e784efaded6b7268156828d8ecc6fc005ebea436366a612175c"
 metafile = true
 
 [[files]]
@@ -664,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "5c01c61b237056629eadc046f6ad43312fb86d55e012d4c60ed64bda9c939ddc"
+hash = "f964533763c23336e55c4d304e1ce9848e25362688014622d85c5662dec3df94"
 metafile = true
 
 [[files]]
@@ -804,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/smithing-template-viewer.pw.toml"
-hash = "a1ad2a6962056f1d9ee5d1ac5ca91fd8935a4922afe4b4c0d71b72ae648756e4"
+hash = "f7c1507266c9e4e167f267a13958a12ca7d5ebe9d2942986993c1825b5957f62"
 metafile = true
 
 [[files]]

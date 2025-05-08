@@ -22,9 +22,6 @@
 	# Range: 1.0 ~ 3.4028234663852886E38
 	filterItemRenderDistance = 10.0
 	#.
-	#Show kinetic debug information on blocks while the F3-Menu is open.
-	enableRainbowDebug = false
-	#.
 	#Choose the menu row that the Create config button appears on in the main menu
 	#Set to 0 to disable the button altogether
 	# Default: 2
@@ -118,6 +115,13 @@
 		# Default: 0.10000000149011612
 		# Range: 0.0 ~ 1.0
 		ambientVolumeCap = 0.10000000149011612
+
+	#.
+	#Mod Integration and JEI
+	[client.jeiIntegration]
+		#.
+		#Whether to auto-update the JEI search when searching in the stock keeper UI
+		syncJeiSearch = true
 
 	#.
 	#Railway related settings

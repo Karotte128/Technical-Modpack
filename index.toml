@@ -446,7 +446,7 @@ hash = "08bdfac3f378bcb1e434bb78a33a45110a6e06de24f6b0f65d2e2b876fd653c0"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism_rotary.js"
-hash = "a5a59ea17ce1a0b741ccfbe73112cf758a4d08d4cafeb7ca3bebaa5b83317404"
+hash = "61cdca2a49a0782365a12274dcf6e5d17b3bf9cd0eab81f3aabc54bde4ebd6a7"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
@@ -463,6 +463,10 @@ hash = "042ace3520eb225f9819c05fb851f19de8695a001755f5f1286edc54b57ba1b6"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/fluid.js"
+hash = "37dc8a421f0109db93374b3bfe90d566d694cf85f2661f1b35250e9b50ce1c5f"
 
 [[files]]
 file = "kubejs/startup_scripts/infinity_cells.js"
@@ -584,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "564a7376ded80e784efaded6b7268156828d8ecc6fc005ebea436366a612175c"
+hash = "ebbdce8f5c7d1cfabceba8c521168c6af4b2e83048abf6ca8a2cf28799abd091"
 metafile = true
 
 [[files]]
@@ -659,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "261fd340f52ff644905a17b2f51646b4fba433a539ef4b3564424c0a62f21b78"
+hash = "6b638e2a7ed992db6bd5f210fdbbd37fd2eb0f7e11b5c92b1e872538dd19fb87"
 metafile = true
 
 [[files]]
@@ -809,12 +813,12 @@ metafile = true
 
 [[files]]
 file = "mods/smithing-template-viewer.pw.toml"
-hash = "f7c1507266c9e4e167f267a13958a12ca7d5ebe9d2942986993c1825b5957f62"
+hash = "382d046069eefe23726209ccc23ef5916b0ce9fb4650a5256d4cd516f74d0790"
 metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "339e72d497dd644996a2d7d15285c0debc359c889d230d8c0f5e964cd5659abf"
+hash = "bec76c2c537d275f93af93e91d194afbd9ccb78db2e47663b06b56e910e3ca11"
 metafile = true
 
 [[files]]

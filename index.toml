@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
+hash = "71e9214fbeb615fb3ea3b2c63e802ab8d2132550a2d9177eac3b3226a3b6c58c"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-flux.pw.toml"
-hash = "64cf1edcb526eb1d7ebe4d05fdb53f3e56afa7f1f486c9b2547dfcbf27c94d37"
+hash = "5d29c20dadb30c0c019bb99fbb4afdaf06e020a3bb69d9609911139609f16ce7"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
-hash = "406c9b6b6f64d019cbed394a3611ec9816e2e893b64c39df9a530bdf6d9ccaed"
+hash = "1ac6fa919e4c1731c641e965fa4f69305d17159e9632341748eafccc0f184856"
 metafile = true
 
 [[files]]
@@ -625,22 +625,27 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "035efff0a8a5c863244d07a116534665082506fc225100ad96459a3930ef9d15"
+hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "2a8f7e581f05e7d2758467a8206fc46c52263f14b94d8e9814be750a907cbfcf"
+hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
 metafile = true
 
 [[files]]
 file = "mods/create-no-entities.pw.toml"
-hash = "fa15e43716fba85b8c7c886dfad464c397c3f266197b309fa3561a8538d571e0"
+hash = "4b4b1104dc038293e4ff7ed38bb8c6b4c1134330e2c88afc436ea64f0b22e27d"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ebbdce8f5c7d1cfabceba8c521168c6af4b2e83048abf6ca8a2cf28799abd091"
+hash = "c5ffade2f283a235d919ba957f5783fc0f5ca454242c7f0cd71ad600c59c899e"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "cad1a56712d6303c76243fa265262a947a1b620d48484d6eada239d4ae0d061a"
 metafile = true
 
 [[files]]
@@ -660,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "cf6a913a3413cbe644d3e19fae254cc172542b7f4bced8b13258d06290be4860"
+hash = "3500953bc0ed3fcd9170c27a2937b65babc6e6d5ad941f574f392acebcc1bfc0"
 metafile = true
 
 [[files]]
@@ -715,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "6b638e2a7ed992db6bd5f210fdbbd37fd2eb0f7e11b5c92b1e872538dd19fb87"
+hash = "b47ca5d4db969dcbf3b3a2934dac9d79bd0f49d97b4f9fd23eec88dcbc39daab"
 metafile = true
 
 [[files]]
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
+hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
 metafile = true
 
 [[files]]
@@ -770,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "e1186ddc953e1446af3ba58cbb80ddd0d2315c1571ed5438f5c03953edf0b656"
 metafile = true
 
 [[files]]
@@ -785,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -805,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega.pw.toml"
-hash = "cdb71780cfa587a1652d3f580cdb168bcca9e480acd5cf160155887d16ad3436"
+hash = "a28a0f131220d1d9c0454d3d09de3697bdefb910611d5124250f95823ea50d3d"
 metafile = true
 
 [[files]]
@@ -835,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/monocle-iris.pw.toml"
-hash = "ebb19f81682fcc81ee7330d3b94800eb0696c8de54d1df84e935781c4fa42af5"
+hash = "b52e609a82922bdfc70563b51602c6f115aa462c4c3e367e452606dae8536405"
 metafile = true
 
 [[files]]
@@ -850,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-realms-button.pw.toml"
-hash = "ae520ee41ac6c4cc12361767e7d0c2040f801e4bc204fa70d395fcba0f9bcf6e"
+hash = "73be9c623d8e1d2d0a76189ecc01a1e7af762fe6921ad697b89661b839d26617"
 metafile = true
 
 [[files]]
@@ -870,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "bec76c2c537d275f93af93e91d194afbd9ccb78db2e47663b06b56e910e3ca11"
+hash = "77a26cda1febf99ccc3564291557cf186d0edd8ac537ccc27e3e7aa33f53cc21"
 metafile = true
 
 [[files]]

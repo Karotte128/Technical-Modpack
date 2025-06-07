@@ -1,13 +1,13 @@
 name = "Cable Facades"
-filename = "cable_facades-1.21.1-NeoForge-1.5.1.jar"
+filename = "cable_facades-1.21.1-NeoForge-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twipgzWx/versions/Y8BgNMsk/cable_facades-1.21.1-NeoForge-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/twipgzWx/versions/AbubRmSl/cable_facades-1.21.1-NeoForge-1.6.0.jar"
 hash-format = "sha512"
-hash = "77f109117143ba2ceccad8817deb9da98b34c80c39e9b92bf37f33f13e84059575c62c7dad7b1ae18a6b9bfbb84919f7c38856686534338289a83adc020df2d7"
+hash = "b9d96934f59521b492f67767e8b736d2a92b44a4b9056eeb47ba81a43bde8ce0557079a4b8cdd819153992e349838535cff6b9cf249b45e49ff7d35b33e4e785"
 
 [update]
 [update.modrinth]
 mod-id = "twipgzWx"
-version = "Y8BgNMsk"
+version = "AbubRmSl"

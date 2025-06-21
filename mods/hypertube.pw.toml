@@ -1,0 +1,13 @@
+name = "Create: Hypertubes"
+filename = "create_hypertube-0.1.5-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/zoyb53P3/create_hypertube-0.1.5-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "1b3a9c6e78c55f9eac89ded9ae695f2a39e6993147c57b4df2142c29a90105ecc6075d3806088ed4027c977b61443063da949aa963bbe2072443b0443f66f9e3"
+
+[update]
+[update.modrinth]
+mod-id = "ATDdrG1y"
+version = "zoyb53P3"

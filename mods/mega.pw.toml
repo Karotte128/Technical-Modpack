@@ -1,13 +1,13 @@
 name = "MEGA Cells"
-filename = "megacells-4.9.0.jar"
+filename = "megacells-4.9.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/QLJNl0ZF/megacells-4.9.0.jar"
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/MsWWD6kH/megacells-4.9.1.jar"
 hash-format = "sha512"
-hash = "c38cf91c050088911ea8f11d3534a0c8aa1225412a389ba92e3eda8298b78629ed4de6815dbc6e20865757bf2b5f8dd5e2f6a0f0c255e8939acffa74b1d6a615"
+hash = "2974cbdcb1f7e69b1d653df6d8e30c6b5f3126c0f42987b0b1d6ea3e070ab6a1989633679fe056986220663b7ba2a3d7aadf8d8a3f3857b7ba9273dea98b928e"
 
 [update]
 [update.modrinth]
 mod-id = "jjuIRIVr"
-version = "QLJNl0ZF"
+version = "MsWWD6kH"

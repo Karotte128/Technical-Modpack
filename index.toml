@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
-hash = "9954b78cdcee56bef5d407f8051a4924c7c178c29fee92a7482c5c5ac695794b"
+hash = "b65010712a1d17392bafa4dcecb6608fdf16a74a04f64fa67e207e921abf03d1"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "c52bf730148b87f31057eae0786ff215525d76341c2c93c672629cb1b6c2d1f0"
+hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
 metafile = true
 
 [[files]]
@@ -650,12 +650,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "c5ffade2f283a235d919ba957f5783fc0f5ca454242c7f0cd71ad600c59c899e"
+hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
 metafile = true
 
 [[files]]
 file = "mods/create-stock-bridge.pw.toml"
-hash = "cad1a56712d6303c76243fa265262a947a1b620d48484d6eada239d4ae0d061a"
+hash = "2e6372b2674d1917b39aba9b213f769b37cc5c017a01f1df497aed560e5fc82a"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "3500953bc0ed3fcd9170c27a2937b65babc6e6d5ad941f574f392acebcc1bfc0"
+hash = "32736b36eadd7d23870bc658ad1a172f03de779ae8eee1e149b540a5abf6ff23"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "8c83614e546fccc7e2ef5760249591f511eb96e26a227b7be1c6c3638291d31c"
+hash = "4b65bc889b87002a5afe4c236a54cf8c1dab11788df1807fa29abd74004cf696"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "7d79369f917b6b8432fd04cda858f7826aba89440b4d120177d494b6787a38ba"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]

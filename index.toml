@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
+hash = "1544f6f326efdb1880372b13682690d31c6d985385103f7ef1c06d0e7bd166a0"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "51931cb57d3a84798e5c6238959e8a363ddaad9fc96014991663ab929605ee0a"
+hash = "0c14dfdb8a95dbb13d05d38b37e06c09af16da778005f188e83882ef1fe7912e"
 metafile = true
 
 [[files]]

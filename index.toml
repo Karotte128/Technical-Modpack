@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "0c14dfdb8a95dbb13d05d38b37e06c09af16da778005f188e83882ef1fe7912e"
+hash = "493a61b01a7140ddd5992164c9be24c57abcb21ef785fed9a8b32559a7083dd0"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
+hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true
 
 [[files]]

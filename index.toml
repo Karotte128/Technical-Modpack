@@ -10,7 +10,7 @@ hash = "ae85f9c3ea4a18bb5c46e975b73a4a13888214abce571aafc33ed2f3f31b6e5a"
 
 [[files]]
 file = "config/Advancedperipherals/peripherals.toml"
-hash = "0788268cda44d62b4b11d1f50f92ab8fa23e5c525c3c4af1f0a287ffd4a01584"
+hash = "2922b3be9448e5f496d776acd3c33ec79204b0dadb1c6e56d1fcc7b1cc41e05f"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
@@ -169,12 +169,16 @@ file = "config/create_cardboarded_conveynience-common.toml"
 hash = "4bf687bc0c7a53e91efe6c5f4d49f58adb33cd5f0f9f5c8c4e0cb3b5e4691ce1"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "8beb8d8a0f1518f2dc80aa55b959483e44428c8037e1e9600bce65e9896859f2"
+
+[[files]]
 file = "config/create_dragons_plus-client.toml"
-hash = "df49878dcb54f34cdf3f96fbc23a3e4cd7d82d0d27ac42aaa2cbae9268dea83e"
+hash = "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290"
 
 [[files]]
 file = "config/create_dragons_plus-common.toml"
-hash = "5a34f340e0b7b13b15c14a57f8a88daef1b2c3e590c432903d1e0910d3ae5489"
+hash = "92171a44c653770b24fe1fed6cfb34d4dca91f4206ef28671ca54ad181433632"
 
 [[files]]
 file = "config/create_dragons_plus-server.toml"
@@ -189,16 +193,20 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "b83bf7c0fa4a02bcf0655b2f8a76d1e67029d3cdb66872f54050e8e85b48b4a9"
 
 [[files]]
+file = "config/create_hypertube-client.toml"
+hash = "9a8ee0b38b047362f572128eaec987b392cb152e88c54c7757b7eefe17a45b8a"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "72d3e7d3d2511290bd0f4ea376c0a834104032696667543feade19bb03f3e7ee"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "6b0cd52576c7cd8b7d0bd6b5d9d8af596074a9aeb964c5edb68ac0e78633b0e7"
+hash = "0cce8b60d824204166d27bda85ccaa286cdd947ca02acf077943242b6eba136f"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
-hash = "f069f00297d9dacb1058d1de250f793379b9e4c439d19029ab57a26d1ef904ef"
+hash = "c3bb0fb5761cbfa9bcec35b92a777b855ee8b7e5b9773b0c5daa49e4d13960be"
 
 [[files]]
 file = "config/dragonlib-common.toml"
@@ -230,7 +238,7 @@ hash = "f6df77b78206033428d0873f8b3be3a8c4f7e682cef67d25fe28ad8ac8b4ba98"
 
 [[files]]
 file = "config/emi.css"
-hash = "e97b693bbbd0fa526a0a5e3940aca55afe746935b65516036ff5d366a00d63cb"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
 [[files]]
 file = "config/emi_loot_config.toml"
@@ -286,7 +294,7 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/guideme.toml"
-hash = "a2241c09b150c0374320e4f78e82d91b7f29990ff15f8e130c3f0646850cde8f"
+hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
 
 [[files]]
 file = "config/hyperbox-client.toml"
@@ -299,10 +307,6 @@ hash = "a01811522b724b8b1ece6bcb62cd27ea5e83cb4598492c932428ea82876b7275"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
-
-[[files]]
-file = "config/iris.properties"
-hash = "316a74d0520fd99d1296fa94c7fad8dfa5558021254d291d2478f41dd406bf5a"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -361,6 +365,10 @@ file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
+file = "config/patchouli-client.toml"
+hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
 file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
@@ -370,7 +378,7 @@ hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
 
 [[files]]
 file = "config/sky-aesthetics.json"
-hash = "e5ed4b7b38e6cc67883d0c37a821ddce8602efb3ba6f12cf5f656fe0ffc1f712"
+hash = "8e1b6d5088e373f8b9d0a5b734b2b17c6e01d42f3e63da5637a3e8c0da7a0c48"
 
 [[files]]
 file = "config/smithingtemplateviewer-common.toml"
@@ -389,8 +397,28 @@ file = "config/toms_peripherals-server.toml"
 hash = "91689381d5151eac079c84334986a4c8417386c813c7295ccb30d3397dcd6d73"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "cecae3a750fb40a17ed8de5be3421efa388ec8a338aa7842116d70dd5a9e175f"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
 file = "config/yigd.json"
-hash = "5f16fc8b1c5d897fb75b16f5401bc412668fa46929c6e7de65a6fecec1feac8b"
+hash = "01d786aee2f7eca99d6b043a1bd1dc06aae50b8b96f003310fcee8213e668228"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -775,17 +803,12 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "493a61b01a7140ddd5992164c9be24c57abcb21ef785fed9a8b32559a7083dd0"
+hash = "a002d56fe9985659aa57934de6be2173d6cb80789ff891f7a7ebacc9f36b4cea"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "c71462d72924eb6f74dca8c4701d7309cf3a8a028c06a9c1882cd577f1db5dfb"
 metafile = true
 
 [[files]]
@@ -856,11 +879,6 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "18c3ef929d62a53a30f8b590ac5866a0f905af3442fc34c55e0ad61fd3d2f8bc"
-metafile = true
-
-[[files]]
-file = "mods/monocle-iris.pw.toml"
-hash = "b52e609a82922bdfc70563b51602c6f115aa462c4c3e367e452606dae8536405"
 metafile = true
 
 [[files]]

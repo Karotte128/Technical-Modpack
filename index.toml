@@ -558,7 +558,7 @@ hash = "8636a2ac0736c6335c8a3397cf3d7ebbd767a6f8ee51fdaa6627be4de8312534"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "5d9193c890be07ec06a9ec5d886a6d0237f164a77eae3a6eaa56228e8ba7d9ae"
+hash = "1ed9d54872a780939283c1f2d18475e48cf6e306931dd6c0f1ba2cef1017ab45"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "62bc1b8e680d18b533c841a5117f633eb669f7b3b87cddf25e684eb1d3ecc88a"
+hash = "9c6079f512c55eb82f03317a2d40bef821e3d8c589d72c6659af6a39aab5923b"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
+hash = "0177b98d7552743df5bd62e45d2efe012d8d416c53f94735a0d4074468f5a2ca"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "24a7bd108a54ab9a536c49395930f8f4ef856ab8c61a55f9cdade5fe39dc6bae"
+hash = "ebac4adabaa55172ac0fef5f0fa5edcd4306f78aa13f1e23763d35099d238ca2"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c9d048eafc4c07caf5ddbad536c1cfeff9e7a9094ce3e8016540fee9ac691db1"
+hash = "407c4cc8cb9920a9b23674d81952c512302525755d8fba12e94acecaaae949e7"
 metafile = true
 
 [[files]]

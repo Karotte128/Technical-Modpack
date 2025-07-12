@@ -277,4 +277,13 @@ ServerEvents.recipes(event => {
     D: 'minecraft:deepslate',
   })
 
+  //mek cardboard box
+  event.shaped('mekanism:cardboard_box', [
+    ' C ',
+    'C C',
+    ' C '
+  ], {
+    C: 'create:cardboard'
+  })
+
 })

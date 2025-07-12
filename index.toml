@@ -145,6 +145,10 @@ file = "config/cable_facades-common.toml"
 hash = "d66cbfa59a404c87e7ec53d181c52d4d72efa87f95993954208f0256fef26893"
 
 [[files]]
+file = "config/cccbridge/client.toml"
+hash = "0df418e007fa1f1fce7953ba69359ddf3c2d889476045e19236a76321235a4e2"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
@@ -154,7 +158,7 @@ hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "da7f746b8a21a40618a7d4bfd0f3364b3cf1f46fc16cf9109fbbc8e54f93cf43"
+hash = "98d37b0f4eff033b02481fb98398c8351a65a955347c149f87ddf6eb1f6be646"
 
 [[files]]
 file = "config/create-common.toml"
@@ -162,7 +166,7 @@ hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "0c61852f7dedc61c4b67136cddf4a1cde57c029bbb5cb7cf0a8bd8fb86869070"
+hash = "ecc5b52f73dc551e893dbf224ea860fa01224559b7356dadb44f1155e79c5a59"
 
 [[files]]
 file = "config/create_cardboarded_conveynience-common.toml"
@@ -171,6 +175,10 @@ hash = "4bf687bc0c7a53e91efe6c5f4d49f58adb33cd5f0f9f5c8c4e0cb3b5e4691ce1"
 [[files]]
 file = "config/create_connected-common.toml"
 hash = "8beb8d8a0f1518f2dc80aa55b959483e44428c8037e1e9600bce65e9896859f2"
+
+[[files]]
+file = "config/create_connected-server.toml"
+hash = "b01cfdd6b640f531c1164ec9c077acc2c133c6336fb831f99c8e72eac02ddc26"
 
 [[files]]
 file = "config/create_dragons_plus-client.toml"
@@ -182,7 +190,7 @@ hash = "92171a44c653770b24fe1fed6cfb34d4dca91f4206ef28671ca54ad181433632"
 
 [[files]]
 file = "config/create_dragons_plus-server.toml"
-hash = "1d772fe6c1a8b92231c3d0b54b506e7493354b4d8709dbe4acf84fe4fa9ca173"
+hash = "690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189"
 
 [[files]]
 file = "config/create_enchantment_industry-client.toml"
@@ -190,11 +198,19 @@ hash = "a12fe6bf0d2f2b1c1a4ad05ab17cbd34f9fdf1dbcef20085f6b48a4dcf94d242"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
-hash = "b83bf7c0fa4a02bcf0655b2f8a76d1e67029d3cdb66872f54050e8e85b48b4a9"
+hash = "e08d07de72271fbcd0c584c22c89ebba0ecf351a7ed465b54769f055f80ee71b"
 
 [[files]]
 file = "config/create_hypertube-client.toml"
 hash = "9a8ee0b38b047362f572128eaec987b392cb152e88c54c7757b7eefe17a45b8a"
+
+[[files]]
+file = "config/create_hypertube-server.toml"
+hash = "6d3449906a91d8997a30863f8e92d249fb094bea3b83285c5a7baa2fff8152f1"
+
+[[files]]
+file = "config/create_mobile_packages-server.toml"
+hash = "694e3cb2c3e0fd1da670a669a0c573df9661abc358de3e93a7682930ced2d689"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -226,7 +242,7 @@ hash = "816ac63742ce47d467aac5b7c58b357338389c4d74e327c2dfb3ed0fc60b2ed7"
 
 [[files]]
 file = "config/elevatorid-server.toml"
-hash = "3861e1c9b5383e73030e33a4e00c34f64bce7a0f3f38dfb2be9c5ddedd2a7123"
+hash = "9693a70b639cdea378d42b746bf494f2c45eb353d2403fcf444bd92d3267f577"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -242,7 +258,7 @@ hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
 [[files]]
 file = "config/emi_loot_config.toml"
-hash = "43ce08a3e2b2627284a4bff0ff5b474bb752ee066aef61e04bf691b7467fbfdc"
+hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
 
 [[files]]
 file = "config/emi_ores-client.json"
@@ -258,7 +274,11 @@ hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
+hash = "5afdc465def80283de2b001cd7e509b6cc3d5e4c682f1dc499f70cb2f521a320"
+
+[[files]]
+file = "config/escalated-server.toml"
+hash = "dc38be15cae51c0235f39c08d7055d09b5916234a7761270cc9035201d6cc788"
 
 [[files]]
 file = "config/etf_warnings.json"
@@ -266,7 +286,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/extendedae-common.toml"
-hash = "87fa025e3fa343b7e2300a9044e39c5f83299f2443071df7cd99f0296a8d5a9e"
+hash = "f2ec9b2a95e2ed7691fd020107c551f1fbafde195991d1c47907662da5c80a55"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -294,7 +314,7 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/guideme.toml"
-hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
+hash = "f5f86c04ea620b09db0f53b973959dfd8c2610e8b59625cc89c650152c2ea072"
 
 [[files]]
 file = "config/hyperbox-client.toml"
@@ -307,6 +327,10 @@ hash = "a01811522b724b8b1ece6bcb62cd27ea5e83cb4598492c932428ea82876b7275"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "6a72a59c77b7bc7a42774a6dfe28b48f0d3544263bafabdebd457400422e1e1f"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -367,6 +391,14 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
+
+[[files]]
+file = "config/petrolpark-server.toml"
+hash = "98106f02c8e53c940225970559458ea5bf9e5542b0adcb55ef9131a96c47478d"
+
+[[files]]
+file = "config/petrolsparts-server.toml"
+hash = "428da067d8648c986e48b2e8be1fd0cee3e6836f5c122f26c25ada0a34109977"
 
 [[files]]
 file = "config/ponder-client.toml"
@@ -506,7 +538,7 @@ hash = "32d29ec0ab2026fc132f6ed141eafebfab6575e612f3c31f0dddce5a8bc36c8d"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "0aa22f9ac67e6e235f2bad58e05f6702d21e13342d8851df27a89073c89de4ae"
+hash = "1c869a34af83d3b3e0f61c8b7f3cf5b8c44eabf29e87ac31107d332e3848232c"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -530,11 +562,11 @@ hash = "61cdca2a49a0782365a12274dcf6e5d17b3bf9cd0eab81f3aabc54bde4ebd6a7"
 
 [[files]]
 file = "kubejs/server_scripts/remove_recipes.js"
-hash = "0cd9ce091afd3efb26d6557ae712061564e1f58459d2ab90da75d632c34d304b"
+hash = "f145b9b7267483dc25d0486ec863dc1f64b4dc96830fae394877fb86d5ee9ec4"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "1fe2c65c51d9091dd52202a02cb4455d1c1e01384524080bc6d7fefc7ab1a213"
+hash = "8a6d7b317342764e67b7fd02c0b5d3f08a41b443e576b8241372f381678ef31d"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
@@ -568,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "9c6079f512c55eb82f03317a2d40bef821e3d8c589d72c6659af6a39aab5923b"
+hash = "f356a64e3c8e2f19124d524636392e0463c0b977f5d5d170170033f9ca749c21"
 metafile = true
 
 [[files]]
@@ -638,7 +670,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "1544f6f326efdb1880372b13682690d31c6d985385103f7ef1c06d0e7bd166a0"
+hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
@@ -669,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/create-extra-casing.pw.toml"
 hash = "b104731c5e6f3fba4464709c3c18950f58972d760aba74a6909230cb2c3a752c"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "5c73a7f59f0337d847a647b7080d9558fa5cb85a688d6a2302be05dc437a96ce"
 metafile = true
 
 [[files]]
@@ -808,7 +850,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
+hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
 
 [[files]]
@@ -818,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e1186ddc953e1446af3ba58cbb80ddd0d2315c1571ed5438f5c03953edf0b656"
+hash = "49b54c496707ed15e2f22cd806cbebb3d3ac489483d97f4b61495690e2eeecea"
 metafile = true
 
 [[files]]
@@ -889,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]

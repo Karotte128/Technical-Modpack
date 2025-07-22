@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
-hash = "ee042bf2d0fe04975a49e6c38f66fc381f29cd3b5b38f9e1344dd2a8db2d3686"
+hash = "dea700f49d6cc370ce3dc745bddd8a49c3acf3f8490b1a6422974500f36a06b0"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stock-bridge.pw.toml"
-hash = "2e6372b2674d1917b39aba9b213f769b37cc5c017a01f1df497aed560e5fc82a"
+hash = "f1058b2cdd30e361e4631b4d7fc389f9607f7f09fbbb59e31a7c29e13d29b221"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "126cfafc70fd7923b2356ec33a64f0630ff50e1d2d6c087ada5e336788f104b7"
+hash = "dfad4fb42e4cd1b44bdb404a5c3a3a2f68c522d4e9f6122d3a11102174fb0afc"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/hypertube.pw.toml"
-hash = "a002d56fe9985659aa57934de6be2173d6cb80789ff891f7a7ebacc9f36b4cea"
+hash = "099524d048a4a6315fce69063fbb601b04f81f826b33eb44ba43ecb4ea0233ff"
 metafile = true
 
 [[files]]
@@ -949,6 +949,11 @@ hash = "73be9c623d8e1d2d0a76189ecc01a1e7af762fe6921ad697b89661b839d26617"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
@@ -970,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "8bfc332a895f70d804adc88669eab12e0c437f4fe3f9263331676a37e06d92ea"
+hash = "f4d45edba4b24650266c596bee0de49e632cf3f899cbfe0f819d11a03d46552e"
 metafile = true
 
 [[files]]
